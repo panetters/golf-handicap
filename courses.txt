@@ -1,0 +1,1685 @@
+28370,Anchorage Golf Course,Anchorage,AK
+28371,Sea Mountain GC,Sitka,AK
+28373,Chena Bend GC,Fairbanks,AK
+28374,Fairbanks GC,Fairbanks,AK
+28372,Fishhook GC,Palmer,AK
+28377,Settlers Bay GC,Wasilla,AK
+28378,Bird Homestead GC,Soldotna,AK
+28376,Palmer GC,Palmer,AK
+28379,Birch Ridge GC,Soldotna,AK
+28381,Moose Run GC - Creek Course,Anchorage,AK
+28375,North Star GC,Fairbanks,AK
+28386,Moose Run GC - Hill Course,Anchorage,AK
+28380,Kenai Golf Association,Kenai,AK
+28383,Bear Valley Golf Course,Kodiak,AK
+27574,Peninsula Golf Course - Marsh/Lakes,Gulf Shores,AL
+27575,Peninsula Golf Course - Lakes/Cypress,Gulf Shores,AL
+27578,Horse Creek Golf Club,Doro,AL
+27576,Peninsula Golf Course - Cypress/Marsh,Gulf Shores,AL
+27577,Old Overton Club,Vestavia Hills,AL
+27579,Becky Peirce Municipal Golf Course,Huntsville,AL
+27580,Lakeview Country Club,Greensboro,AL
+27584,The Links at Redstone - Patriot Course,Redstone Arsenal,AL
+27585,Glenlakes Golf Club - Dunes/Lakes,Foley,AL
+27586,Glenlakes Golf Club - Lakes/Vista,Foley,AL
+27587,Glenlakes Golf Club - Vista/Dunes,Foley,AL
+27588,Hampton Cove - Highlands,Owens Cross Roads,AL
+27590,Magnolia Grove - Falls,Semmes,AL
+27591,Magnolia Grove - Crossings,Semmes,AL
+27592,Big Spring Lake Country Club,Albertville,AL
+27596,Cahaba Falls,Centerville,AL
+27597,The Pines of Millbrook,Millbrook,AL
+27598,Azalea City Golf Course - Azalea City Golf Course,Mobile,AL
+27599,Cypress Lakes,Muscle Shoals,AL
+27600,Auburn University Club,Auburn,AL
+27601,Country Club of Birmingham - West Course,Birmingham,AL
+27602,Cottonwood Golf Club,Montgomery,AL
+27604,The Pines of Chatom - The Pines of Chatom,Chatom,AL
+27605,Turtle Point Yacht & CC,Killen,AL
+27608,Capitol Hill Golf Course - Legislator,Prattville,AL
+27609,Capitol Hill Golf Course - Judge,Prattville,AL
+27611,Bent Brook Golf Course - Brook/Graveyard,Bessemer,AL
+27610,Capitol Hill Golf Course - Senator,Prattville,AL
+27612,Bent Brook Golf Course - Graveyard/Windmill,Bessemer,AL
+27616,Quail Walk Country Club,Wetumpka,AL
+27618,Highland Park Golf Course,Birmingham,AL
+27617,Limestone Springs,Oneonta,AL
+27620,Silver Wings Golf Course - Blue/White,Ft Rucker,AL
+27621,Silver Wings Golf Course - Blue/Red,Ft Rucker,AL
+27622,Silver Wings Golf Course - Red/White,Ft Rucker,AL
+27623,Greenville Country Club,Greenville,AL
+27624,Highland Oaks - Highlands/Magnolia,Dothan,AL
+27625,Highland Oaks - Magnolia/Marshwood,Dothan,AL
+27626,Highland Oaks - Highlands/Marshwood,Dothan,AL
+27628,Gunter's Landing,Guntersville,AL
+27629,Cumberland Lake Golf Course,Pinson,AL
+27631,Goose Pond Plantation,Scottsboro,AL
+27633,Fox Ridge Golf Course,Ozark,AL
+27635,Lake Forest Yacht & Country Club - Forest Course,Daphne,AL
+27638,Cherokee Ridge Country Club,Union Grove,AL
+27639,Greystone - Legacy,Birmingham,AL
+27640,Greystone - Founders Course,Birmingham,AL
+27644,Cypress Tree Golf Course - The University Course,Maxwell Afb,AL
+27648,Troy Country Club - Troy Country Club,Troy,AL
+27649,Shoal Creek Club - Shoal Creek Club,Shoal Creek,AL
+27650,FarmLinks Golf Club,Sylacauga,AL
+27651,Moore's Mill Golf Club,Auburn,AL
+27653,Pine Hill Country Club,Anniston,AL
+27658,Alpine Bay Golf Club,Alpine,AL
+27656,Grayson Valley Country Club,Birmingham,AL
+27659,Gadsden Country Club - Gadsden Country Club,Gadsden,AL
+27660,Juniper Creek - Juniper Creek,Brewton,AL
+27661,Kiva Dunes - Kiva Dunes,Gulf Shores,AL
+27662,Burningtree Country Club - Burningtree Country Club,Decatur,AL
+27666,NorthRiver Yacht Club,Tuscaloosa,AL
+27663,Anniston Country Club - Anniston Country Club,Anniston,AL
+27665,The Links of Tuscaloosa - The Links of Tuscaloosa,Tuscaloosa,AL
+27667,Montgomery Country Club - Montgomery Country Club,Montgomery,AL
+27669,Arrowhead Country Club - Arrowhead Country Club,Montgomery,AL
+27670,The Ledges Country Club - The Ledges Country Club,Huntsville,AL
+27672,Mountain View Golf Course - Blue/Red,Graysville,AL
+27673,Mountain View Golf Course - Blue/White,Graysville,AL
+27674,Mountain View Golf Course - White/Red,Graysville,AL
+27675,Demopolis Country Club - Demopolis Country Club,Demoplois,AL
+27676,Chesley Oaks Golf Course - Chesley Oaks Golf Course,Cullman,AL
+27677,Cane Creek Golf Course - Cane Creek Golf Course,Anniston,AL
+27679,Huntsville Country Club,Huntsville,AL
+27678,Timberline Golf Course - Timberline Golf Course,Calera,AL
+27684,Valley Hill Country Club - Hill/Lake,Huntsville,AL
+27682,Valley Hill Country Club - Valley/Lake,Huntsville,AL
+27687,Gulf Shores Golf Club - Gulf Shores Country Club,Gulf Shores,AL
+27683,Valley Hill Country Club - Hill/Valley,Huntsville,AL
+27688,Wynlakes Golf & Country Club,Montgomery,AL
+27686,Musgrove Country Club,Jasper,AL
+27689,Inverness Country Club,Birmingham,,AL
+27691,Trussville Country Club,Trussville,AL
+27693,Canebrake Golf Club,Athens,AL
+27695,Oxmoor Valley - Ridge Course,Birmingham,AL
+27697,Lakewood Golf Club - Azalea,Point Clear,AL
+27698,Prattville Country Club,Prattville,AL
+27699,Southern Gayles Golf Club,Athens,AL
+27701,TP Country Club,Cullman,AL
+27703,Fox Run Golf Course,Meridianville,AL
+27704,Ross Bridge Golf Course,Birmingham,AL
+27706,Oak Mountain State Park Golf Course,Pelham,AL
+27707,Country Club of Alabama,Eufaula,AL
+27708,The Shoals - The Schoolmaster,Muscle Shoals,AL
+27709,The Shoals - Fighting Joe,Muscle Shoals,AL
+27710,Eufaula Country Club,Eufaula,AL
+27711,Selma Country Club,Selma,AL
+27714,Timber Creek Golf Club - Magnolia/Dogwood,Daphne,AL
+27715,Timber Creek Golf Club - Dogwood/Pines,Daphne,AL
+27716,Timber Creek Golf Club - Pines/Magnolia,Daphne,AL
+27717,Lakewood Golf Club - Dogwood,Point Clear,AL
+27719,Country Club of Birmingham - East,Birmingham,AL
+27720,Oxmoor Valley - Valley Course,Birmingham,AL
+27722,Cherokee Country Club,Centre,AL
+27723,Castle Pines Country Club,Gardendale,AL
+27724,Mountain Brook Club,Birmingham,AL
+27728,Ballantrae Golf Course,Pelham,AL
+27729,Lagoon Park,Montgomery,AL
+27730,Rock Creek,Fairhope,AL
+27731,Steelwood,Loxley,AL
+27732,Coosa Pines Country Club - Coosa Pines Country Club,Childersburg,AL
+27734,Grand National Golf Course - Lake Course,Opelika,AL
+27737,Twin Bridges Golf Club,Gadsden,AL
+27739,Andalusia Country Club,Andalusia,AL
+27748,Hidden Meadows Golf Club,Northport,AL
+27753,Enterprise Country Club,Enterprise,AL
+27754,Woodward Golf & Country Club,Bessemer,AL
+27766,Terrapin Hills Country Club,Fort Payne,AL
+27779,Quail Creek Golf Course,Fairhope,AL
+27781,Choctaw Country Club,Butler,AL
+27786,Holly Hills Golf Course,Bay Minette,AL
+27789,Aroostook Golf Course - Kolomi,Montgomery,AL
+27792,Craft Farms - Cypress Bend,Gulf Shores,AL
+27796,Indian Pines Golf Club,Auburn,AL
+27800,Lakewood Golf Course,Phenix City,AL
+27807,Colonial Golf Club,Meridianville,AL
+27809,Lakepoint State Golf Course,Eufaula,AL
+27811,Spring Hill College Golf Club - Spring Hill College Golf Club,Mobile,AL
+29326,The Links at Redstone - Warrior,Redstone Arsenal,AL
+29933,Brundidge Country Club,Brundidge,AL
+30023,Hoover Country Club,Birmingham,AL
+30024,Marion Military Institute GC,Marion,AL
+30028,Quail Creek Resort,Hartselle,AL
+30408,Cross Creek Golf Course - Cross Creek Golf Course,Hanceville,AL
+30443,Heron Lakes Country Club,Mobile,AL
+30483,Vanity Fair Golf & Tennis Club - Vanity Fair,Monroeville,AL
+32029,Ol' Colony Golf Complex,Tuscaloosa,AL
+32053,Vestavia Country Club - Vestavia CC,Birmingham,AL
+32623,Country Club of Mobile - CC of Mobile,Mobile,AL
+32686,Point University Golf Club - Point University Golf Club,Lanett,AL
+32707,Stillwaters Golf,Dadeville,AL
+33211,Dothan Country Club - Dothan Country Club,Dothan,AL
+34338,Willow Point Golf & Country Club - Willow Point Country Club,Alexander City,AL
+34345,Cider Ridge Golf Club - Cider Ridge Golf Club,Oxford,AL
+34485,Indian Hills Country Club - Indian Hills Country Club,Tuscaloosa,AL
+34509,Cambrian Ridge Golf Course - Sherling / Loblolly,Greenville,AL
+34511,Cambrian Ridge Golf Course - Canyon/Sherling,Greenville,AL
+34512,Cambrian Ridge Golf Course - Loblolly / Canyon,Greenville,AL
+34631,Hampton Cove - River,Owens Cross Roads,AL
+35792,Pine Tree Country Club - Pine Tree Country Club,Birmingham,AL
+35931,Saugahatchee Country Club,Opelika,AL
+36336,Bent Brook Golf Course - Brook/Windmill,Bessemer,AL
+36337,Silver Lakes - Backbreaker-Mindbreaker,Glencoe,AL
+36339,Silver Lakes - Mindbreaker-Heartbreaker,Glencoe,AL
+38148,Point Mallard Golf Course - Point Mallard,Decatur,AL
+36340,Silver Lakes - Heartbreaker-Backbreaker,Glencoe,AL
+38188,Gulf State Park - Refuge Golf CLub,Gulf Shores,AL
+38345,Riverchase Country Club - Riverchase CC,Birmingham,AL
+38568,Lake Guntersville State Park,Guntersville,AL
+38968,Jackson Golf Association,Jackson,AL
+38977,Blackberry Trail,Florence,AL
+41025,Deer Haven Golf Club,Camden,AL
+41026,General Golf Course,Lawrence,AL
+41440,Grand National Golf Course - Links,Opelika,AL
+41526,Dothan National Golf Club - Dothan National Golf Club,Dothan,AL
+41527,Goose Pond Colony - Goose Pond Colony,Scottsboro,AL
+41528,Craft Farms - Cotton Creek Club,Gulf Shores,AL
+42772,Glenlakes Golf Club - Lakes/Lakes,Foley,AL
+47026,Heatherwood Hills Country Club - Heatherwood Hills Country Club,Birmingham,AL
+28429,Concho Valley Country Club,Concho,AZ
+28428,Western Skies GC,Gilbert,AZ
+28431,Whirlwind Golf Club - Devil's Claw,Chandler,AZ
+28430,Whirlwind Golf Club - Cat Tail,Chandler,AZ
+28434,Wigwam G & CC - Gold Course,Litchfield Park,AZ
+28433,Wigwam G & CC - Blue Course,Litchfield Park,AZ
+28432,Wigwam G & CC - Red Course,Litchfield Park,AZ
+28436,Haven Golf Course,Green Valley,AZ
+28437,Greenlee Country Club,Duncan,AZ
+28438,Sunland Village Golf Club,Mesa,AZ
+28435,Skyline Country Club,Tucson,AZ
+28441,Encanterra Country Club,Queen Creek,AZ
+28442,Camelback Golf Club - Padre Course,Scottsdale,AZ
+28443,Camelback Golf Club - Ambiente Course,Scottsdale,AZ
+28445,Coldwater Golf Club,Avondale,AZ
+28444,Desert Canyon - Desert Canyon,Fountain Hills,AZ
+28448,Safford Mount Graham Municipal GC,Safford,AZ
+28446,Laughlin Ranch Golf Club,Bullhead City,AZ
+28447,Continental Golf Course,Scottsdale,AZ
+28450,Rio Rico Resort & Country Club,Rio Rico,AZ
+28439,Foothills Golf Club,Phoenix,AZ
+28449,Santa Rita Country Club,Corona De Tucson,AZ
+28451,Island Golf Club @ The Nautical,Lake Havasu City,AZ
+28452,Pine Meadows CC,Overgaard,AZ
+28453,Shadow Hills Golf Course,Pearce Sunsites,AZ
+28454,Gallery Golf Club - The North,Marana,AZ
+28455,Gallery Golf Club - The South,Marana,AZ
+28456,Eagle Mountain GC,Fountain Hills,AZ
+28457,Torres Blancas GC - Torres Blancas GC,Green Valley,AZ
+28458,Chaparral Country Club,Bullhead City,AZ
+28459,El Rio Golf Club (Mohave Valley),Mohave Valley,AZ
+28460,500 Club, The,Phoenix,AZ
+28461,Corte Bella Golf Club,Sun City West,AZ
+28463,Eagles Nest Golf Club,Goodyear,AZ
+28464,Seven Canyons,Sedona,AZ
+28465,Quail Creek CC - Quail/Coyote,Green Valley,AZ
+28466,Quail Creek CC - Coyote/Roadrunner,Green Valley,AZ
+28467,Quail Creek CC - Roadrunner/Quail,Green Valley,AZ
+28468,Pinewood Country Club,Munds Park,AZ
+28469,Alpine Country Club,Alpine,AZ
+28470,Saddlebrooke Ranch Golf Club,Oracle,AZ
+28471,SaddleBrooke GC - SaddleBrooke/Tucson,Tucson,AZ
+28472,SaddleBrooke GC - Catalina/SaddleBrooke,Tucson,AZ
+28473,SaddleBrooke GC - Tucson/Catalina,Tucson,AZ
+28475,Ventana Canyon - Mountain,Tucson,AZ
+28476,Ventana Canyon - Canyon,Tucson,AZ
+28477,Legend Trail Golf Club - Legend Trail Golf Club,Scottsdale,AZ
+28478,Talking Rock,Prescott,AZ
+28479,Desert Mountain - Apache,Scottsdale,AZ
+28480,Desert Mountain - Cochise,Scottsdale,AZ
+28481,Desert Mountain - Chiricahua,Scottsdale,AZ
+28482,Desert Mountain - Outlaw,Scottsdale,AZ
+28483,Desert Mountain - Geronimo,Scottsdale,AZ
+28484,Desert Mountain - Renegade (Gold Flags),Scottsdale,AZ
+28485,Desert Mountain - Renegade (White Flags),Scottsdale,AZ
+28486,Pinnacle Peak Country Club,Scottsdale,AZ
+28487,Springfield Golf Club,Chandler,AZ
+28488,Red Mountain Ranch CC,Mesa,AZ
+28489,Stoneridge Golf Course,Prescott Valley,AZ
+28490,Cave Creek Golf Course - Cave Creek Golf Course,Phoenix,AZ
+28491,Union Hills Golf and Country Club,Sun City,AZ
+28492,Gainey Ranch - Arroyo/Lakes,Scottsdale,AZ
+28493,Gainey Ranch - Lakes/Dunes,Scottsdale,AZ
+28494,Gainey Ranch - Dunes/Arroyo,Scottsdale,AZ
+28495,Poston Butte Golf Club,Florence,AZ
+28496,Lone Tree Golf Club,Chandler,AZ
+28497,Tierra Grande Country Club,Casa Grande,AZ
+28498,Canoa Ranch Golf Club,Green Valley,AZ
+28500,Las Colinas Golf Club,Queen Creek,AZ
+28499,Arrowhead Country Club,Glendale,AZ
+28502,Trail Ridge - Sun City West,Sun City West,AZ
+28503,Starr Pass - Rattler/Coyote,Tucson,AZ
+28505,Starr Pass - Roadrunner/Coyote,Tucson,AZ
+28504,Starr Pass - Rattler/Roadrunner,Tucson,AZ
+28506,Desert Highlands GC,Scottsdale,AZ
+28511,Viewpoint Golf Resort - Executive Course,Mesa,AZ
+28510,Viewpoint Golf Resort,Mesa,AZ
+28512,Sun City North GC,Sun City,AZ
+28513,Ak-Chin Southern Dunes Golf Club,Maricopa,AZ
+28514,San Miguel Golf Club,Eloy,AZ
+28515,Sun City South GC,Sun City,AZ
+28516,Grand Canyon University Golf Course,Phoenix,AZ
+28517,Sedona Golf Resort,Sedona,AZ
+28518,Ancala Country Club,Scottsdale,AZ
+28519,Dave White Golf Course,Casa Grande,AZ
+28521,Papago Golf Course,Phoenix,AZ
+28522,Kino Springs Golf Club - Kino Springs Golf Club,Nogales,AZ
+28523,Superstition Mountain Golf Club - Prospector,Superstition Mountain,AZ
+28524,Superstition Mountain Golf Club - Lost Gold,Superstition Mountain,AZ
+28525,Moon Valley Country Club - Moon Valley Country Club,Phoenix,AZ
+28526,Robson Ranch,Eloy,AZ
+28527,Rio Verde CC - Quail Run,Rio Verde,AZ
+28528,Rio Verde CC - White Wing,Rio Verde,AZ
+28529,Forest Highlands - Canyon,Flagstaff,AZ
+28530,Forest Highlands - Meadow,Flagstaff,AZ
+28531,Arizona Grand Golf Course,Phoenix,AZ
+28532,Tonto Verde - Peaks Course,Rio Verde,AZ
+28533,Tonto Verde - Ranch Course,Rio Verde,AZ
+28534,Torreon - Tower Course,Show Low,AZ
+28535,Torreon - Cabin Course,Show Low,AZ
+28536,TPC of Scottsdale - Champions,Scottsdale,AZ
+28537,TPC of Scottsdale - Stadium,Scottsdale,AZ
+28538,Tucson Country Club,Tucson,AZ
+28540,Tuscany Falls - Lakes/Falls,Goodyear,AZ
+28541,Tuscany Falls - Falls/Palms,Goodyear,AZ
+28542,Tuscany Falls - Palms/Lakes,Goodyear,AZ
+28543,Westbrook Village - Lakes,Peoria,AZ
+28544,Westbrook Village - Vistas,Peoria,AZ
+28545,Starfire Golf Club - Squire/Hawk,Scottsdale,AZ
+28546,Starfire Golf Club - Squire/King,Scottsdale,AZ
+28547,Starfire Golf Club - Hawk/King,Scottsdale,AZ
+28549,Tucson National - Catalina,Tucson,AZ
+28550,Tucson National - Sonoran,Tucson,AZ
+28551,Lake Havasu Golf Club - East Course,Lake Havasu,AZ
+28552,Lake Havasu Golf Club - West Course,Lake Havasu,AZ
+28553,Gold Canyon - Sidewinder,Gold Canyon,AZ
+28554,Gold Canyon - Dinosaur Mountain,Gold Canyon,AZ
+28555,La Paloma CC - Canyon/Hill,Tucson,AZ
+28556,La Paloma CC - Hill/Ridge,Tucson,AZ
+28557,La Paloma CC - Ridge/Canyon,Tucson,AZ
+28558,Anthem Golf & Country Club - Ironwood,Anthem,AZ
+28559,Anthem Golf & Country Club - Persimmon,Anthem,AZ
+28560,Apache Creek Golf Club,Apache Junction,AZ
+28561,Apache Wells CC,Mesa,AZ
+28562,Boulders - North,Carefree,AZ
+28563,Boulders - South,Carefree,AZ
+28564,Antelope Hills GC - North,Prescott,AZ
+28565,Antelope Hills GC - South,Prescott,AZ
+28566,Ocotillo Golf Resort - Gold/Blue,Chandler,AZ
+28567,Ocotillo Golf Resort - White/Gold,Chandler,AZ
+28568,Ocotillo Golf Resort - Blue/White,Chandler,AZ
+28569,Whisper Rock Golf Club - Upper,Scottsdale,AZ
+28570,Whisper Rock Golf Club - Lower,Scottsdale,AZ
+28571,Wildfire - Faldo,Phoenix,AZ
+28572,Wildfire - Palmer,Phoenix,AZ
+28573,Falcon GC,Litchfield Park,AZ
+28574,Talking Stick Golf Club - PIIPAASH COURSE,Scottsdale,AZ
+28575,Talking Stick Golf Club - O’ODHAM COURSE,Scottsdale,AZ
+28576,Duke at Rancho El Dorado, The,Maricopa,AZ
+28577,Tres Rios Golf Course at Estrella Mountain - Tres Rios Golf Course at Estrella Mountain,Goodyear,AZ
+28578,Hidden Cove Golf Course,Holbrook,AZ
+28582,Blackstone Country Club,Peoria,AZ
+28583,Estancia Club, The,Scottsdale,AZ
+28584,Arizona National GC - Arizona National GC,Tucson,AZ
+28585,DC Ranch, The Country Club at,Scottsdale,AZ
+28586,El Conquistador CC - Conquistador,Tucson,AZ
+28587,El Conquistador CC - Canada,Tucson,AZ
+28588,El Conquistador CC - Pusch Ridge,Tucson,AZ
+28589,Bison Golf Club,Show Low,AZ
+28590,Falcon Dunes GC,Waddell,AZ
+28591,Turquoise Valley Golf Course,Naco,AZ
+28592,Twin Lakes GC,Willcox,AZ
+28593,Douglas Golf & Social Club,Douglas,AZ
+28594,The Views Golf Club - The Views Golf Club,Oro Valley,AZ
+28595,Dorado Golf Club,Tucson,AZ
+28596,Quintero Golf and Country Club,Peoria,AZ
+28597,Aguila Golf Course,Laveen,AZ
+28598,Vistoso, The Golf Club at,Tucson,AZ
+28600,BC Ranch Golf Club,Lake Montezuma,AZ
+28599,Wickenburg Country Club,Wickenburg,AZ
+28601,Mesa Country Club - Mesa Country Club,Mesa,AZ
+28603,Los Caballeros Golf Club,Wickenburg,AZ
+28602,Las Barrancas,Yuma,AZ
+28604,Grayhawk - Raptor,Scottsdale,AZ
+28605,Legacy Golf Resort,Phoenix,AZ
+28606,Los Lagos Golf Club,Ft. Mohave,AZ
+28608,Seville Golf & Country Club - Seville Golf & Country Club,Gilbert,AZ
+28609,Scottsdale National Golf Club - Scottsdale National Golf Club,Scottsdale,AZ
+28610,Augusta Ranch Golf Club - Augusta Ranch Golf Club,Mesa,AZ
+28612,Palo Verde GC,Phoenix,AZ
+28613,Willowcreek GC- Sun City,Sun City,AZ
+28614,San Ignacio Golf Club - South,Green Valley,AZ
+28615,Troon North Golf Course - Monument Course,Scottsdale,AZ
+28616,Troon North Golf Course - Pinnacle Course,Scottsdale,AZ
+28617,Bear Creek Golf Complex - Cub Course,Chandler,AZ
+28618,Bear Creek Golf Complex - Bear Course,Chandler,AZ
+28619,Silver Creek Golf Club,Show Low,AZ
+28623,Cocopah Golf Resort,Yuma,AZ
+28624,Silverleaf,Scottsdale,AZ
+28625,Payson Golf Course - Payson Golf Course,Payson,AZ
+28626,Quailwood Greens,Dewey,AZ
+28627,Preserve Golf Club,Tucson,AZ
+28628,Palo Duro Creek Golf Course,Nogales,AZ
+28629,Pine Canyon Club, The,Flagstaff,AZ
+28630,Tatum Ranch Golf Club,Cave Creek,AZ
+28631,Elephant Rocks G.C.,Williams,AZ
+28632,Pueblo del Sol GC - Pueblo del Sol GC,Sierra Vista,AZ
+28633,Ironwood Golf Course - Ironwood Golf Course,Chandler,AZ
+28634,Verrado Golf Club - Founder's Course,Buckeye,AZ
+28635,Mission Royale Golf Club,Casa Grande,AZ
+28636,Sun Lakes Country Club - Sun Lakes Country Club,Sun Lakes,AZ
+28638,Stardust - Sun City West,Sun City West,AZ
+28639,Las Sendas Golf Club - Las Sendas Golf Club,Mesa,AZ
+28641,Palm Valley Golf Club - Palms,Goodyear,AZ
+28642,Cobre Valle Country Club - Cobre Valle Country Club,Globe,AZ
+28643,Orange Tree GR,Scottsdale,AZ
+28644,Painted Mountain Golf Resort,Mesa,AZ
+28645,Stone Canyon Club, The,Oro Valley,AZ
+28646,Superstition Springs Golf Club - Superstition Springs Golf Club,Mesa,AZ
+28647,Peoria Pines Golf & Restaurant,Peoria,AZ
+28648,del Lago Golf Club,Vail,AZ
+28649,Copper Canyon Golf Club - Copper Canyon Golf Club,Buckeye,AZ
+28650,Echo Mesa GC - Sun City West,Sun City West,AZ
+28651,Quarry Pines Golf Club,Tucson,AZ
+28652,Randolph North,Tucson,AZ
+28653,We-Ko-Pa Golf Club - Saguaro,Fountain Hills,AZ
+28654,We-Ko-Pa Golf Club - Cholla,Fountain Hills,AZ
+28655,MountainView Golf Club @ Ft. Huachuca,Ft. Huachuca,AZ
+28656,Refuge GC, The,Lake Havasu City,AZ
+28657,Greer Lakes Golf Resort,Safford,AZ
+28658,Dell Urich GC,Tucson,AZ
+28659,Cottonwood Country Club,Sun Lakes,AZ
+28660,Chaparral Pines, Golf Club @,Payson,AZ
+28661,Fred Enke Golf Course,Tucson,AZ
+28662,Rim Club, The,Payson,AZ
+28663,FireRock CC,Fountain Hills,AZ
+28664,Pinetop Country Club,Pinetop,AZ
+28665,Tubac - Rancho/Otero,Tubac,AZ
+28666,Tubac - Anza/Rancho,Tubac,AZ
+28667,Tubac - Otero/Anza,Tubac,AZ
+28669,Flagstaff Ranch Golf Club,Flagstaff,AZ
+28670,The Club at Prescott Lakes,Prescott,AZ
+28671,San Pedro Golf Course,Benson,AZ
+28672,Golf Club of Estrella - Golf Club of Estrella,Goodyear,AZ
+28673,Snowflake Golf Course,Snowflake,AZ
+28674,Arizona Golf Resort,Mesa,AZ
+28675,Desert Springs Golf Club - Desert Springs Golf Club,Surprise,AZ
+28677,Forty Niner Country Club,Tucson,AZ
+28678,Pueblo El Mirage,El Mirage,AZ
+28679,Links at Queen Creek,Queen Creek,AZ
+28680,Ahwatukee Country Club,Phoenix,AZ
+28682,Cerbat Cliffs Golf Course,Kingman,AZ
+28683,Valle Vista Country Club,Kingman,AZ
+28686,Raven Golf Club-Phoenix,Phoenix,AZ
+28687,Leisure World - Leisure World Championship - Coyote Run,Mesa,AZ
+28688,Leisure World - Leisure World Executive - Heron Lakes,Mesa,AZ
+28689,Granite Falls GC - North Course,Surprise,AZ
+28690,Granite Falls GC - South Course,Surprise,AZ
+28691,Stonecreek, The Golf Club,Phoenix,AZ
+28692,Mountain Brook GC,Gold Canyon,AZ
+28693,Verde River Golf & Social Club - Verde River Golf & Social Club,Rio Verde,AZ
+28694,Oro Valley Country Club,Oro Valley,AZ
+28695,Silverbell Golf Course,Tucson,AZ
+28696,Crooked Tree Golf Course,Tucson,AZ
+28697,HUUKAN Golf Club,Fort Mohave,AZ
+28698,PalmBrook Country Club,Sun City,AZ
+28700,Desert Hills GC - Green Valley,Green Valley,AZ
+28701,Pinetop Lakes G & CC,Pinetop,AZ
+28703,Oakcreek Country Club - Oakcreek Country Club,Sedona,AZ
+28699,Lake Powell National GC,Page,AZ
+28705,Aspen Valley Golf Club,Flagstaff,AZ
+28706,Scottsdale Silverado Golf Club,Scottsdale,AZ
+28708,Desert Hills Municipal,Yuma,AZ
+28709,Mesa Del Sol Golf Course,Yuma,AZ
+28710,Trilogy Golf Club @ Power Ranch,Gilbert,AZ
+28711,Davis Monthan AFB,Tucson,AZ
+28712,El Rio Golf Course,Tucson,AZ
+28713,Kokopelli Golf Club,Gilbert,AZ
+28714,Arizona City Golf Course,Arizona City,AZ
+28715,Hillcrest Golf Club,Sun City West,AZ
+28717,Ken McDonald Golf Course - Ken McDonald Golf Course,Tempe,AZ
+28718,Terravita Golf Club,Scottsdale,AZ
+28719,Sun City Riverview GC,Sun City,AZ
+28720,Arizona Biltmore CC - Adobe,Phoenix,AZ
+28721,Arizona Biltmore CC - Links,Phoenix,AZ
+28722,Apache Stronghold GC,San Carlos,AZ
+28723,Sunridge Canyon GC - Sunridge Canyon GC,Fountin Hills,AZ
+28724,Greenfield Lakes Golf Course,Gilbert,AZ
+28726,Verde Santa Fe,Cornville,AZ
+28727,Dobson Ranch Golf Course,Mesa,AZ
+28728,Toka Sticks GC,Mesa,AZ
+28729,Trilogy Golf Club @ Vistancia,Peoria,AZ
+28730,Troon Country Club - Troon Country Club,Scottsdale,AZ
+28732,Francisco Grande Hotel & Golf Resort,Casa Grande,AZ
+28733,Deer Valley GC - Sun City West,Sun City West,AZ
+28734,Rancho Manana Golf Club,Cave Creek,AZ
+28735,Club West Golf Club,Phoenix,AZ
+28736,Highlands at Dove Mountain, The,Marana,AZ
+28737,McCormick Ranch - Pine,Scottsdale,AZ
+28738,McCormick Ranch - Palm,Scottsdale,AZ
+28739,Sun City Country Club,Sun City,AZ
+28740,Shalimar CC,Tempe,AZ
+28741,Emerald Canyon Golf Course,Parker,AZ
+28742,Desert Trails GC - Sun City West,Sun City West,AZ
+28743,Johnson Ranch, Golf Club at,San Tan Valley,AZ
+28744,Sundance Golf Club,Buckeye,AZ
+28745,San Marcos Golf & Country Club,Chandler,AZ
+28746,Alta Mesa Golf Club,Mesa,AZ
+28747,Pebblebrook GC - Sun City West,Sun City West,AZ
+28748,Villa De Paz Golf Course,Phoenix,AZ
+28749,Cimarron Golf Club,Surprise,AZ
+28750,Fountain of the Sun CC,Mesa,AZ
+28752,Oakwood Country Club - Palms/Sonoran,Sun Lakes,AZ
+28753,Oakwood Country Club - Sonoran/Lakes,Sun Lakes,AZ
+28754,Oakwood Country Club - Lakes/Palms,Sun Lakes,AZ
+28755,Briarwood Country Club,Sun City West,AZ
+28757,Paradise Valley CC,Paradise Valley,AZ
+28759,Sunland Village East,Mesa,AZ
+28761,Prescott Country Club,Dewey,AZ
+28760,Phoenix Country Club,Phoenix,AZ
+28762,Legend at Arrowhead Golf Club, The,Glendale,AZ
+28763,Lookout Mountain Golf Club - Lookout Mountain Golf Club,Phoenix,AZ
+28764,Arizona Country Club,Phoenix,AZ
+28766,Sun City Lakes East GC,Sun City,AZ
+28767,Country Club of Green Valley,Green Valley,AZ
+28773,Mirabel Club, The,Carefree,AZ
+28774,Yuma Golf & Country Club,Yuma,AZ
+28775,Karsten Golf Course @ ASU,Tempe,AZ
+28776,Desert Forest Golf Club,Carefree,AZ
+28779,Great Eagle @ Happy Trails GR,Surprise,AZ
+28780,Desert Mirage GC,Glendale,AZ
+28782,Bellair Golf Club,Glendale,AZ
+28784,Arizona Traditions,Surprise,AZ
+28778,Coyote Lakes Golf Club,Surprise,AZ
+28785,Ajo Country Club,Ajo,AZ
+28786,Foothills GC - Yuma,Yuma,AZ
+28794,Sun City Lakes West GC,Sun City,AZ
+28791,Grayhawk - Talon,Scottsdale,AZ
+28795,Sunbird Golf Resort - Sunbird Golf Resort,Chandler,AZ
+28799,SaddleBrooke GC - Tucson/Catalina Links,Tucson,AZ
+28781,WillowBrook GC,Sun City,AZ
+28806,Palo Verde CC- Sun Lakes,Sun Lakes,AZ
+28808,Oakwood Country Club - Palms,Sun Lakes,AZ
+28809,Longbow Golf Club,Mesa,AZ
+28812,Southern Ridge Golf Course,Laveen,AZ
+28811,Coyote Wash, The Links at,Wellton,AZ
+28818,Sunland Springs Golf Club - San Tan/Four Peaks,Mesa,AZ
+28820,Sunland Springs Golf Club - Four Peaks/Superstition,Mesa,AZ
+28823,Apache Sun Golf Club - Apache Sun Golf Club,Queen Creek,AZ
+28821,MountainView Golf Club @ Saddlebrooke,Tucson,AZ
+28825,Dove Valley Ranch GC - Dove Valley Ranch GC,Cave Creek,AZ
+34412,Continental Golf Club-Flagstaff,Flagstaff,AZ
+28814,Queen Valley Golf Club,Queen Valley,AZ
+34451,Kierland GC - Ironwood/Acacia,Scottsdale,AZ
+34450,Kierland GC - Mesquite/Ironwood,Scottsdale,AZ
+34523,Golf Club at Dove Mountain, The - Saguaro/Wild Burro,Marana,AZ
+34091,White Mountain Country Club,Pinetop,AZ
+34452,Kierland GC - Acacia/Mesquite,Scottsdale,AZ
+34637,McDowell Mountain Golf Club,Scottsdale,AZ
+34524,Golf Club at Dove Mountain, The - Tortolita/Saguaro,Marana,AZ
+34525,Golf Club at Dove Mountain, The - Wild Burro/Tortolita,Marana,AZ
+38329,Oakwood Country Club - Sonoran,Sun Lakes,AZ
+37409,The Club At Oasis,Florence,AZ
+37410,Starr Pass - Classic,Tucson,AZ
+41166,Coronado Golf Course,Scottsdale,AZ
+41173,Hayden Municipal Golf Course,Hayden,AZ
+41192,Rolling Hills- Tempe - Rolling Hills- Tempe,Tempe,AZ
+41308,Boulders - Back S/Back N,Carefree,AZ
+38330,Oakwood Country Club - Lakes,Sun Lakes,AZ
+41309,Boulders - Front N/Back S,Carefree,AZ
+41311,Boulders - Front S/Front N,Carefree,AZ
+41193,Rolling Hills- Tucson,Tucson,AZ
+41310,Boulders - Front S/Back N,Carefree,AZ
+41347,Peninsula de Cortes Golf Club,Puerto Penasco,AZ
+41351,San Carlos Club de Golf,San Carlos,AZ
+41350,Links at Las Palomas, The,Puerto Penasco,AZ
+41355,Gainey Ranch - Arroyo Nine,Scottsdale,AZ
+41346,Quail Run GC - Sun City,Sun City,AZ
+41356,Gainey Ranch - Dunes Nine,Scottsdale,AZ
+41358,Gainey Ranch - Ranch Course-Dunes,Scottsdale,AZ
+41380,Snowflake Golf Course - Snowflake GC West 9,Snowflake,AZ
+41381,Starfire Golf Club - Squire Nine,Scottsdale,AZ
+41359,Gainey Ranch - Ranch Course-Lakes,Scottsdale,AZ
+41383,Starfire Golf Club - King Nine,Scottsdale,AZ
+41384,Sunland Springs Golf Club - Superstition/San Tan,Mesa,AZ
+41387,Coyote Trails Golf Course - Coyote Trails Golf Course,Cottonwood,AZ
+41382,Starfire Golf Club - Hawk Nine,Scottsdale,AZ
+41400,SaddleBrooke GC - SaddleBrooke 9 Twice,Tucson,AZ
+41357,Gainey Ranch - Lakes Nine,Scottsdale,AZ
+41399,SaddleBrooke GC - Catalina 9 Twice,Tucson,AZ
+41447,San Ignacio Golf Club - North,Green Valley,AZ
+41497,Grandview GC - Sun City West,Sun City West,AZ
+41493,Encanto Golf Course - Encanto Golf Course,Phoenix,AZ
+41508,Guacalito, Nicaragua,Guacalito,AZ
+41402,SaddleBrooke GC - Tucson 9 Twice,Tucson,AZ
+45322,Wickenburg Ranch Golf & Social Club,Wickenburg,AZ
+45656,Grayhawk - Raptor(F)/Talon(B),Scottsdale,AZ
+44282,Club Campestre de Cananea,Cananea,AZ
+45657,Grayhawk - Raptor(F)/Talon(F),Scottsdale,AZ
+45658,Grayhawk - Talon(B)/Raptor(F),Scottsdale,AZ
+45774,Rio Verde CC - Quail Run B-White Wing B,Rio Verde,AZ
+46626,Scottsdale National Golf Club - The Other Course,Scottsdale,AZ
+46651,Verrado Golf Club - Victory Course,Buckeye,AZ
+46655,Phoenician - Phoenician,Scottsdale,AZ
+43821,Sewailo Golf Club,Tucson,AZ
+46937,Superstition Mountain Golf Club - Prospector (Front 9) Lost Gold (Back 9),Superstition Mountain,AZ
+45663,Capital Canyon Club,Prescott,AZ
+46957,Rio Verde CC - Original,Rio Verde,AZ
+5231,Tri Palms Golf Course - Millennium,Thousand Palms,CA
+5233,The Oasis Country Club,Palm Desert,CA
+5234,Date Palm Country Club,Cathedral City,CA
+5236,Los Serranos Golf Club - South Course,Chino Hills,CA
+5237,The Links at Victoria - The Links at Victoria,Carson,CA
+5238,Alondra Park Golf Course,Lawndale,CA
+5239,Santa Anita Golf Course,Arcadia,CA
+5232,Palm Desert Greens Country Club,Palm Desert,CA
+5240,Chester L. Washington Golf Course,Los Angeles,CA
+5245,Jurupa Hills Country Club,Riverside,CA
+5244,The Links at Summerly,Lake Elsinore,CA
+5247,Woodley Lakes Golf Course,Encino,CA
+5248,Saticoy Regional Golf Course,Ventura,CA
+5251,Paradise Knolls Golf Course,Riverside,CA
+5252,Alhambra Golf Course - Alhambra Golf Course,Alhambra,CA
+5254,Skylinks Golf Course,Long Beach,CA
+5255,Knollwood Country Club,Granada Hills,CA
+5243,Eaton Canyon Golf Course,Pasadena,CA
+5257,Lakewood Country Club,Lakewood,CA
+5256,Roosevelt Golf Course,Los Angeles,CA
+5259,Harbor Park Golf Course,Wilmington,CA
+5260,Calimesa Country Club - Calimesa Country Club,Calimesa,CA
+5261,Shandin Hills Golf Course,San Bernardino,CA
+5258,El Cariso Golf Course,Sylmar,CA
+5262,Diamond Bar Golf Course,Diamond Bar,CA
+5264,Marshall Canyon Golf Course,La Verne,CA
+5253,Recreation Park,Long Beach,CA
+5263,Azusa Greens Country Club,Azusa,CA
+5265,La Mirada Golf Course - La Mirada Golf Course,La Mirada,CA
+5270,Penmar Municipal Golf Course - Penmar Municipal Golf Course,Venice,CA
+5638,Westin Mission Hills Resort - Pete Dye Resort Course,Rancho Mirage,CA
+5639,Westin Mission Hills Resort - Gary Player Signature Course,Rancho Mirage,CA
+5269,Buenaventura Golf Course,Ventura,CA
+5266,Whittier Narrows Golf Course - River/Pine,Rosemead,CA
+5641,El Caballero Country Club - El Caballero Country Club,Tarzana,CA
+5643,Toscana Country Club - South Course,Indian Wells,CA
+5646,Desert Willow Golf Resort - Mountain View,Palm Desert,CA
+5647,Desert Willow Golf Resort - Firecliff,Palm Desert,CA
+5642,Toscana Country Club - North Course,Indian Wells,CA
+5651,The Los Angeles Country Club - South,Los Angeles,CA
+5652,The Lakes Country Club - East/South,Palm Desert,CA
+5650,The Los Angeles Country Club - North,Los Angeles,CA
+5640,Indian Hills Golf Club,Riverside,CA
+5654,The Lakes Country Club - North/East,Palm Desert,CA
+5653,The Lakes Country Club - South/North,Palm Desert,CA
+5664,Industry Hills Golf Club - Eisenhower Course,City Of Industry,CA
+5665,Industry Hills Golf Club - Zaharias Course,City Of Industry,CA
+5666,La Costa Resort & Spa - Legends,Carlsbad,CA
+5663,El Prado Golf Courses - Butterfield Stage,Chino,CA
+5670,Los Coyotes Country Club - Valley/Vista,Buena Park,CA
+5671,Los Coyotes Country Club - Vista/Lake,Buena Park,CA
+5662,El Prado Golf Courses - Chino Creek,Chino,CA
+5667,La Costa Resort & Spa - Champions,Carlsbad,CA
+5674,Cathedral Canyon Golf Club,Cathedral City,CA
+5672,Los Coyotes Country Club - Lake/Valley,Buena Park,CA
+5675,Fairbanks Ranch Country Club - Lakes to Ocean,Rancho Santa Fe,CA
+5676,Fairbanks Ranch Country Club - Valley to Lakes,Rancho Santa Fe,CA
+5677,Fairbanks Ranch Country Club - Ocean to Valley,Rancho Santa Fe,CA
+5673,Glen Annie Golf Club,Santa Barbara,CA
+5679,Indian Wells Country Club - Cove Course,Indian Wells,CA
+5681,Golf Club at La Quinta,La Quinta,CA
+5678,Indian Wells Country Club - Classic Course,Indian Wells,CA
+5682,Pelican Hill Golf Club - Ocean North,Newport Beach,CA
+5684,Strawberry Farms Golf Club,Irvine,CA
+5683,Pelican Hill Golf Club - Ocean South,Newport Beach,CA
+5686,Yorba Linda Country Club,Yorba Linda,CA
+5685,Woodland Hills Country Club,Woodland Hills,CA
+5687,Wood Ranch Golf Club,Simi Valley,CA
+5680,Riviera Country Club,Pacific Palisades,CA
+5691,The Reserve,Indian Wells,CA
+5690,Tradition Golf Club,La Quinta,CA
+5692,Sunset Hills Country Club,Thousand Oaks,CA
+5694,Sundale Country Club,Bakersfield,CA
+5693,Sunrise Country Club,Rancho Mirage,CA
+5697,The Springs Club - The Springs Club,Rancho Mirage,CA
+5696,Stockdale Country Club,Bakersfield,CA
+5698,Spring Valley Lake Country Club,Victorville,CA
+5700,South Hills Country Club,West Covina,CA
+5688,The Madison Club,La Quinta,CA
+5701,Sun Lakes Country Club,Banning,CA
+5703,Roadrunner Dunes Golf Club,Twenty Nine Palms,CA
+5705,SilverRock Resort - SilverRock Resort,La Quinta,CA
+5699,Spanish Hills Country Club,Camarillo,CA
+5706,The Vintage Club - Desert,Indian Wells,CA
+5707,The Vintage Club - Mountain,Indian Wells,CA
+5708,Virginia Country Club,Long Beach,CA
+5709,The Mission Club - The Mission Club,Lompoc,CA
+5711,Via Verde Country Club - Via Verde Country Club,San Dimas,CA
+5713,Upland Hills Country Club - Upland Hills Country Club,Upland,CA
+5712,Victoria Club,Riverside,CA
+5704,Tamarisk Country Club,Rancho Mirage,CA
+5715,Valencia Country Club,Valencia,CA
+5716,Western Hills Country Club,Chino,CA
+5717,Warner Springs Ranch,Warner Springs,CA
+5719,Woodhaven Country Club,Palm Desert,CA
+5721,Silver Lakes Country Club - East/South,Helendale,CA
+5720,Seven Hills Golf Club,Hemet,CA
+5722,Silver Lakes Country Club - North/South,Helendale,CA
+5724,Sierra La Verne Country Club,La Verne,CA
+5723,Silver Lakes Country Club - North/East,Helendale,CA
+5718,Vista Valley CC - Par 72,Vista,CA
+5726,Seven Oaks Country Club - Original Course,Bakersfield,CA
+5728,Seven Oaks Country Club - Lakes/Island,Bakersfield,CA
+5725,Sherwood Country Club,Thousand Oaks,CA
+5727,Seven Oaks Country Club - Oaks/Lakes,Bakersfield,CA
+5730,Seven Oaks Country Club - Island/Oaks,Bakersfield,CA
+5732,Shadowridge Country Club - Shadowridge Country Club,Vista,CA
+5731,Shadow Hills Golf Club - South Course,Indio,CA
+5735,Seacliff Country Club - Seacliff Country Club,Huntington Beach,CA
+5733,Santa Maria Country Club,Santa Maria,CA
+5736,The Saticoy Club - The Saticoy Club,Somis,CA
+5738,San Gabriel Country Club,San Gabriel,CA
+5740,San Vicente Resort & Golf Club - San Vicente Resort & Golf Club,Ramona,CA
+5741,Shadow Mountain Golf Club,Palm Desert,CA
+5742,Santa Ana Country Club - Santa Ana Country Club,Santa Ana,CA
+5744,La Quinta Resort & Club - Mountain,La Quinta,CA
+5743,La Quinta Resort & Club - Citrus Club,La Quinta,CA
+5745,La Quinta Resort & Club - Dunes,La Quinta,CA
+5747,Oak Tree Country Club,Tehachapi,CA
+5734,San Diego Country Club,Chula Vista,CA
+5748,The Oaks Club at Valencia - The Oaks Club at Valencia,Valencia,CA
+5749,La Jolla Country Club,La Jolla,CA
+5746,Kern Valley Golf Course,Kernville,CA
+5751,Rancho Santa Fe Golf Club,Rancho Santa Fe,CA
+5752,PGA West - Nicklaus Private Course,La Quinta,CA
+5754,PGA West - Weiskopf Course,La Quinta,CA
+5753,PGA West - Palmer Private Course,La Quinta,CA
+5756,PGA West - The Stadium Course at PGA WEST,La Quinta,CA
+5755,PGA West - Nicklaus Tournament Course,La Quinta,CA
+5758,Porter Valley Country Club - Porter Valley Country Club,Northridge,CA
+5759,The Country Club of Rancho Bernardo,San Diego,CA
+5750,Redlands Country Club,Redlands,CA
+5760,Rancho La Quinta Country Club - Jones Course,La Quinta,CA
+5762,The Farms Golf Club - The Farms Golf Club,Rancho Santa Fe,CA
+5761,Rancho La Quinta Country Club - Pate Course,La Quinta,CA
+5764,Rancho Las Palmas Country Club - South/West,Rancho Mirage,CA
+5765,Rancho Las Palmas Country Club - North/South,Rancho Mirage,CA
+5757,PGA West - Norman Course,La Quinta,CA
+5767,Red Hill Country Club,Rancho Cucamonga,CA
+5770,Mission Viejo Country Club - Mission Viejo Country Club,Mission Viejo,CA
+5768,Rio Bravo Country Club,Bakersfield,CA
+5771,Mission Hills Country Club - Arnold Palmer Course,Rancho Mirage,CA
+5766,Rancho Las Palmas Country Club - West/North,Rancho Mirage,CA
+5772,Mission Hills Country Club - Dinah Shore Tournament Course,Rancho Mirage,CA
+5773,Mission Hills Country Club - Pete Dye Challenge Course,Rancho Mirage,CA
+5777,Morgan Run Resort & Club - East/South,Rancho Santa Fe,CA
+5776,Marbella Country Club - Marbella Country Club,San Juan Capistrano,CA
+5779,Morgan Run Resort & Club - South/North,Rancho Santa Fe,CA
+5783,Monterey Country Club - East/South,Palm Desert,CA
+5778,Morgan Run Resort & Club - North/East,Rancho Santa Fe,CA
+5784,Monterey Country Club - South/West,Palm Desert,CA
+5775,Marrakesh Country Club,Palm Desert,CA
+5785,Monterey Country Club - West/East,Palm Desert,CA
+5787,MountainGate Country Club - Lake/North,Los Angeles,CA
+5788,MountainGate Country Club - North/South,Los Angeles,CA
+5790,North Ranch Country Club - Oaks/Lakes,Westlake Village,CA
+5791,North Ranch Country Club - Lakes/Valley,Westlake Village,CA
+5789,MountainGate Country Club - South/Lake,Los Angeles,CA
+5792,North Ranch Country Club - Valley/Oaks,Westlake Village,CA
+5794,Ojai Valley Inn & Spa,Ojai,CA
+5786,Newport Beach Country Club,Newport Beach,CA
+5795,Bella Collina Towne & Country Club - Carnoustie/Muirfield,San Clemente,CA
+5797,Bella Collina Towne & Country Club - Royal Lytham/Carnoustie,San Clemente,CA
+5798,Pauma Valley Country Club,Pauma Valley,CA
+5796,Bella Collina Towne & Country Club - Muirfield/Royal Lytham,San Clemente,CA
+5800,Palm Valley Country Club - Championship,Palm Desert,CA
+5801,Lomas Santa Fe Country Club,Solana Beach,CA
+5799,Palm Valley Country Club - Challenge,Palm Desert,CA
+5804,La Cumbre Country Club,Santa Barbara,CA
+5793,Old Ranch Country Club,Seal Beach,CA
+5805,Ben Brown's Golf Course,Laguna Beach,CA
+5802,Lakeside Golf Club - Lakeside Golf Club,Burbank,CA
+5807,St. Mark Golf Club,Lake San Marcos,CA
+5806,Lake Arrowhead Country Club,Lake Arrowhead,CA
+5810,Catalina Island Golf Course,Avalon,CA
+5809,Heritage Palms Golf Club,Indio,CA
+5812,Del Mar Country Club - Del Mar Country Club,Rancho Santa Fe,CA
+5813,Ironwood Country Club - South,Palm Desert,CA
+5814,Ironwood Country Club - North,Palm Desert,CA
+5811,Chevy Chase Country Club,Glendale,CA
+5817,Brentwood Country Club - Brentwood Country Club,Los Angeles,CA
+5818,Birnam Wood Golf Club,Santa Barbara,CA
+5820,Candlewood Country Club,Whittier,CA
+5816,Big Canyon Country Club,Newport Beach,CA
+5821,Canyon Crest Country Club - Canyon Crest Country Club,Riverside,CA
+5819,California Country Club,Whittier,CA
+5822,Canyon Lake Country Club,Canyon Lake,CA
+5825,Crystalaire Country Club,Llano,CA
+5823,Chaparral Country Club,Palm Desert,CA
+5826,De Anza Country Club,Borrego Springs,CA
+5828,Del Rio Country Club,Brawley,CA
+5829,Desert Falls Country Club,Palm Desert,CA
+5830,Desert Horizons Country Club,Indian Wells,CA
+5831,The S @ Rancho Mirage - The S @ Rancho Mirage,Rancho Mirage,CA
+5832,Desert Princess Country Club - Cielo/Vista,Cathedral City,CA
+5834,Desert Princess Country Club - Vista/Lagos,Cathedral City,CA
+5833,Desert Princess Country Club - Lagos/Cielo,Cathedral City,CA
+5835,El Camino Country Club,Oceanside,CA
+5836,Hacienda Golf Club - Hacienda Golf Club,La Habra Heights,CA
+5838,Friendly Hills Country Club - Friendly Hills Country Club,Whittier,CA
+5837,Glendora Country Club,Glendora,CA
+5840,Eldorado Country Club,Indian Wells,CA
+5841,Bernardo Heights Country Club,San Diego,CA
+5843,The Country Club at Soboba Springs,San Jacinto,CA
+5844,Indian Springs Golf Club,Indio,CA
+5846,Hesperia Golf & Country Club,Hesperia,CA
+5847,Diamond Valley Golf Club,Hemet,CA
+5848,China Lake Golf Club,Ridgecrest,CA
+5850,Palm Desert Country Club - The Champ Course,Palm Desert,CA
+5851,O'Donnell Golf Club,Palm Springs,CA
+5849,Bear Mountain Golf Course,Big Bear Lake,CA
+5853,Ivey Ranch Country Club,Thousand Palms,CA
+5854,Rancho San Marcos Golf Course - Rancho San Marcos Golf Course,Santa Barbara,CA
+5852,Mesquite Golf Club,Palms Springs,CA
+5856,Classic Club,Palm Desert,CA
+5824,The Crosby,Rancho Santa Fe,CA
+5855,Rancho Resort Golf Club,Aguanga,CA
+5861,Morongo Golf Club at Tukwet Canyon - Champions,Beaumont,CA
+5862,Morongo Golf Club at Tukwet Canyon - Legends,Beaumont,CA
+5858,The Quarry at La Quinta - The Quarry at La Quinta,La Quinta,CA
+5865,Redhawk Golf Club,Temecula,CA
+5859,Westchester Golf Course,Westchester,CA
+5866,Stone Eagle Golf Club,Palm Desert,CA
+5867,Muroc Lake Golf Course,Edwards,CA
+5868,Wilshire Country Club,Los Angeles,CA
+5864,Oak Creek Golf Club,Irvine,CA
+5871,Antelope Valley Country Club,Palmdale,CA
+5872,Apple Valley Golf Course - Apple Valley Golf Course,Apple Valley,CA
+5873,Arrowhead Country Club,San Bernardino,CA
+5874,Bakersfield Country Club,Bakersfield,CA
+5875,Bear Creek Golf Club - Bear Creek Golf Club,Murrieta,CA
+5876,Bel-Air Country Club,Los Angeles,CA
+5869,Alta Vista Country Club,Placentia,CA
+5878,Monarch Dunes Golf Club - Old Course,Nipomo,CA
+5879,Highland Springs Country Club,Cherry Valley,CA
+5870,Annandale Golf Club,Pasadena,CA
+5880,The Links at RiverLakes Ranch,Bakersfield,CA
+5883,Monarch Beach Golf Links,Dana Point,CA
+5881,Highland Springs Village Golf Club,Cherry Valley,CA
+5884,Primm Valley Golf Club - Lakes Course,Primm Valley,CA
+5882,Mountain View Golf Course,Santa Paula,CA
+5885,Primm Valley Golf Club - Desert Course,Primm Valley,CA
+5888,Rustic Canyon Golf Course - Rustic Canyon Golf Course,Moorpark,CA
+5887,The Palms Golf Club,La Quinta,CA
+5889,Marriott Shadow Ridge Golf Club,Palm Desert,CA
+5877,Journey at Pechanga,Temecula,CA
+5891,Glen Ivy Golf Club - Glen Ivy Golf Club,Glen Ivy,CA
+5890,Talega Golf Club - Talega Golf Club,San Clemente,CA
+5894,Dove Canyon Golf Club - Dove Canyon Golf Club,Dove Canyon,CA
+5892,Hemet Golf Club,Hemet,CA
+5897,Oak Quarry Golf Club,Riverside,CA
+5898,Trump National Golf Club of Los Angeles,Rancho Palos Verdes,CA
+5896,Oak Valley Golf Club,Beaumont,CA
+5899,La Purisima Golf Course,Lompoc,CA
+5901,Calabasas Country Club,Calabasas,CA
+5902,El Niguel Country Club,Laguna Niguel,CA
+5904,Coyote Hills Golf Course,Fullerton,CA
+5903,Cross Creek Golf Club,Temecula,CA
+5905,Dos Lagos Golf Course,Corona,CA
+5906,Eagle Falls Golf Course,Indio,CA
+5908,Goose Creek Golf Club,Mira Loma,CA
+5900,Sierra Lakes Golf Club,Fontana,CA
+5909,The Golf Club of California,Fallbrook,CA
+5910,Black Gold Golf Course - Black Gold Golf Course,Yorba Linda,CA
+5907,Eagle Glen Golf Club,Corona,CA
+5913,Andalusia Country Club,La Quinta,CA
+5911,Angeles National Golf Club,Sunland,CA
+5914,Desert Winds Combat Center Golf Course,Twentynine Palms,CA
+5915,The Golf Club at Terra Lago - North,Indio,CA
+5916,The Golf Club at Terra Lago - South,Indio,CA
+5917,Ranch Course at The Alisal - Ranch Course at The Alisal,Solvang,CA
+5919,Hillcrest Country Club,Los Angeles,CA
+5918,Mission Lakes Country Club,Desert Hot Springs,CA
+5920,Bermuda Dunes Country Club - Lake-Classic #1,Bermuda Dunes,CA
+5921,Bermuda Dunes Country Club - Classic #2-Lake,Bermuda Dunes,CA
+5922,Bermuda Dunes Country Club - Classic #1-Classic #2,Bermuda Dunes,CA
+5912,Altadena Golf Course,Altadena,CA
+5924,Avondale Golf Club - Avondale Golf Club,Palm Desert,CA
+5923,Suncrest Country Club - Suncrest Country Club,Palm Desert,CA
+5927,Rolling Hills Country Club - Rolling Hills Country Club,Rolling Hills Estates,CA
+5925,Mountain View Country Club at La Quinta,La Quinta,CA
+5926,Palos Verdes Golf Club,Palos Verdes Estates,CA
+5929,Aliso Viejo Country Club,Aliso Viejo,CA
+5928,Oakmont Country Club,Glendale,CA
+5930,The Club at Morningside,Rancho Mirage,CA
+5932,Tahquitz Creek Golf Resort - Legend,Palm Springs,CA
+5934,Hideaway Golf Club - Pete's Course,La Quinta,CA
+5933,Hideaway Golf Club - Clive's Course,La Quinta,CA
+5931,Tahquitz Creek Golf Resort - Resort,Palm Springs,CA
+5935,Palm Desert Resort Country Club - Palm Desert Resort Country Club,Palm Desert,CA
+5937,Thunderbird Country Club,Rancho Mirage,CA
+5959,Indian Palms Country Club and Resort - Mountain/Royal,Indio,CA
+5958,Indian Palms Country Club and Resort - Indian/Mountain,Indio,CA
+5963,Indian Canyons Golf Resort - South Course,Palm Springs,CA
+5960,Indian Palms Country Club and Resort - Royal/Indian,Indio,CA
+5965,Escena Golf Club,Palm Springs,CA
+5966,Bighorn Golf Club - The Canyons,Palm Desert,CA
+5964,Indian Canyons Golf Resort - North Course,Palm Springs,CA
+5971,Indian Ridge Country Club - Grove,Palm Desert,CA
+5967,Bighorn Golf Club - The Mountains,Palm Desert,CA
+5972,Indian Ridge Country Club - Arroyo,Palm Desert,CA
+5978,Coto de Caza Golf & Racquet Club - North Course,Coto De Caza,CA
+5968,Arroyo Trabuco Golf Club,Mission Viejo,CA
+5977,Coto de Caza Golf & Racquet Club - South Course,Coto De Caza,CA
+5983,Marriott Desert Springs Resort & Spa - Valley Course,Palm Desert,CA
+5985,Cimarron Golf Resort - Boulder,Cathedral City,CA
+5984,Marriott Desert Springs Resort & Spa - Palms Course,Palm Desert,CA
+5988,Las Posas Country Club,Camarillo,CA
+5987,Sand Canyon Country Club - Valley/Desert,Santa Clarita,CA
+5992,Brentwood (GC at) - Hillside/Diablo,Brentwood,CA
+5991,Brentwood (GC at) - Creekside/Hillside,Brentwood,CA
+5996,Bidwell Park GC,Chico,CA
+5981,The Santaluz Club,San Diego,CA
+6002,Presidio GC - Presidio GC,San Francisco,CA
+6004,Monarch Bay GC - Marina,San Leandro,CA
+6003,Lake Chabot GC,Oakland,CA
+6001,Franklin Canyon GC,Hercules,CA
+6009,Trinity Alps GC,Weaverville,CA
+6008,Windsor GC - Windsor GC,Windsor,CA
+6011,Fall River Valley GCC,Fall River Mills,CA
+6012,Napa GC at Kennedy Park - Napa GC at Kennedy Park,Napa,CA
+6014,Lincoln Park GC - Lincoln Park GC,San Francisco,CA
+6005,Los Lagos GC,San Jose,CA
+6015,Monterey Pines GC,Monterey,CA
+6017,Mount Shasta Resort,Mount Shasta City,CA
+6016,McCloud GC,Mccloud,CA
+6019,Allen's GC - Allen's GC,Redding,CA
+6021,Mission Hills GC,Hayward,CA
+6020,Pinnacle Hills GC,Tres Pinos,CA
+6022,Teal Bend GC - Teal Bend GC,Sacramento,CA
+6023,Foxtail GC - South,Rohnert Park,CA
+6029,Paso Robles GC,Paso Robles,CA
+6013,Gold Hills CC,Redding,CA
+6024,Dryden Park GC,Modesto,CA
+6031,Bailey Creek GC,Lake Almanor,CA
+6032,Yosemite Lakes Park GC - Yosemite Lakes Park GC,Yosemite Lakes Park,CA
+6033,River Creek GC - River Creek GC,Ahwahnee,CA
+6035,Table Mountain GC,Oroville,CA
+6030,Campus Commons GC,Sacramento,CA
+6034,Shoreline GL,Mountain View,CA
+6037,Redwood Canyon GC,Castro Valley,CA
+6038,Lake Almanor CC,Lake Almanor,CA
+6036,Black Oak GC,Auburn,CA
+6039,Rancho Canada GC - East,Carmel Valley,CA
+6040,Tahoe City GC - Tahoe City GC,Tahoe City,CA
+6041,Hidden Valley Lake CC,Middletown,CA
+6042,Ridge Creek,Dinuba,CA
+6043,Sunnyvale GC,Sunnyvale,CA
+6045,San Ramon GC - San Ramon GC,San Ramon,CA
+6046,River Tasalmi GC,Redding,CA
+6047,Oak Creek GC,Red Bluff,CA
+6049,Tulare GC - Tulare GC,Tulare,CA
+6050,Porterville GC,Porterville,CA
+6051,William Land Park GC,Sacramento,CA
+6052,Foxtail GC - North,Rohnert Park,CA
+6053,Camino Heights GC,Camino,CA
+6054,Emerald Lakes GC,Elk Grove,CA
+6055,Vintner's GC - Vintner's GC,Yountville,CA
+6056,Sunken Gardens GC,Sunnyvale,CA
+6057,Fairgrounds GC - Fairgrounds GC,Santa Rosa,CA
+6061,Summitpointe GC,Milpitas,CA
+6063,Paradise Valley GC,Fairfield,CA
+6066,Santa Teresa GC,San Jose,CA
+6068,Mountain Springs GC,Sonora,CA
+6069,Ukiah GC,Ukiah,CA
+6070,Tilden Park GC - Tilden Park GC,Berkeley,CA
+6071,Tahoe Donner GC,Truckee,CA
+6072,Nevada County CC,Grass Valley,CA
+6073,Diablo Creek GC - Diablo Creek GC,Concord,CA
+6074,Tuscan Ridge GC,Paradise,CA
+6075,Indian Valley GC - Indian Valley GC,Novato,CA
+6076,Twain Harte GCC,Twain Harte,CA
+6078,Arbuckle GC,Arbuckle,CA
+6077,Glenn GCC,Willows,CA
+6079,Rooster Run GC,Petaluma,CA
+6081,Manteca Park GC,Manteca,CA
+6087,Little River Inn GC - Little River Inn GC,Little River,CA
+6083,Snowcreek GC,Mammoth Lakes,CA
+6088,Healdsburg GC at Tayman Park,Healdsburg,CA
+6092,Blue Rock Springs GC - West,Vallejo,CA
+6093,Black Rock GC - Black Rock GC,Cobb,CA
+6094,Cypress Lakes GC,Vacaville,CA
+6096,Rancho Solano GC,Fairfield,CA
+6097,Wild Wings GC,Woodland,CA
+6098,Pheasant Run GC - Pheasant Run GC,Chowchilla,CA
+6099,King City GC,King City,CA
+6100,Valley Gardens GC,Scotts Valley,CA
+6101,Baylands GL - Baylands GL,Palo Alto,CA
+6102,Callippe Preserve GC,Pleasanton,CA
+6103,Boundary Oak GC - Boundary Oak GC,Walnut Creek,CA
+6104,Lake Almanor West GC - Lake Almanor West GC,Chester,CA
+6108,Cinnabar Hills GC - Canyon/Lake,San Jose,CA
+6110,Old Greenwood GC,Truckee,CA
+6111,Rancho Del Rey GC,Atwater,CA
+6112,Sebastopol GC,Sebastopol,CA
+6113,Forest Meadows - Forest Meadows,Murphys,CA
+6115,Beau Pre GC,Mckinleyville,CA
+6116,Del Norte GC,Crescent City,CA
+6117,Wildhorse GC,Davis,CA
+6120,Lemoore GC,Lemoore,CA
+6121,Spring Valley GC,Milpitas,CA
+6122,Phoenix Lake GC,Sonora,CA
+6123,Lincoln Hills GC - Orchard,Lincoln,CA
+6124,De Laveaga GC,Santa Cruz,CA
+6125,Mill Valley GC,Mill Valley,CA
+6126,Poplar Creek GC,San Mateo,CA
+6127,Arrowhead GC,Alturas,CA
+6128,Weed GC - Weed GC,Weed,CA
+6129,Northwood GC - Northwood GC,Monte Rio,CA
+6130,Bennett Valley GC,Santa Rosa,CA
+6134,Blue Rock Springs GC - East,Vallejo,CA
+6135,Wikiup GC,Santa Rosa,CA
+6136,Airways GC - Airways GC,Fresno,CA
+6139,Fig Garden GC,Fresno,CA
+6143,Lincoln Hills GC - Hills,Lincoln,CA
+6140,Adobe Creek GC,Petaluma,CA
+6144,Eureka GC,Eureka,CA
+6145,Sharp Park GC - Sharp Park GC,Pacifica,CA
+6146,Bigfoot GCC,Willlow Creek,CA
+6148,Dublin Ranch GC,Dublin,CA
+6149,Van Buskirk GC,Stockton,CA
+6150,Diamond Mountain GC,Susanville,CA
+6152,Spring Hills GC,Watsonville,CA
+6153,Churn Creek GC,Redding,CA
+6154,Anderson Tucker Oaks GC,Redding,CA
+6155,Graeagle Meadows GC - Graeagle Meadows GC,Graeagle,CA
+6157,Blackberry Farm GC,Cupertino,CA
+6158,Harding Park (TPC) GC - Harding Park (TPC) GC,San Francisco,CA
+6159,Harding Park (TPC) GC - Fleming,San Francisco,CA
+6162,Metropolitan GL,Oakland,CA
+6163,Skywest GC,Hayward,CA
+6165,Valley Oaks GC - Valley/Oaks,Visalia,CA
+6166,Valley Oaks GC - Oaks/Lakes,Visalia,CA
+6167,Valley Oaks GC - Lakes/Valley,Visalia,CA
+6168,San Jose CC - San Jose CC,San Jose,CA
+6170,Sunrise GC,Citrus Heights,CA
+6172,Wildhawk GC - Wildhawk GC,Sacramento,CA
+6173,Mare Island GC,Vallejo,CA
+6174,DarkHorse GC - DarkHorse GC,Auburn,CA
+6175,Pacific Grove GL,Pacific Grove,CA
+6177,Empire Ranch GC - Empire Ranch GC,Folsom,CA
+6178,Dry Creek Ranch GC,Galt,CA
+6179,Sherwood Forest GC,Sanger,CA
+6181,Creekside GC,Modesto,CA
+6182,Cordova GC,Sacramento,CA
+6183,Las Positas GC,Livermore,CA
+6184,French Camp GC,Manteca,CA
+6185,Castle Oaks GC,Ione,CA
+6186,Antelope Greens GC,Antelope,CA
+6187,Del Monte GC,Monterey,CA
+6188,Coyote Moon GC,Truckee,CA
+6189,Tahoe Paradise GC,South Lake Tahoe,CA
+6192,San Juan Oaks GC,Hollister,CA
+6190,Laguna Seca GC,Monterey,CA
+6194,Coyote Creek GC - Valley,San Jose,CA
+6193,La Contenta GC - La Contenta GC,Valley Springs,CA
+6196,Colusa GCC,Colusa,CA
+6195,Lake Redding GC,Redding,CA
+6197,Redwood Empire GCC,Fortuna,CA
+6198,Monarch Bay GC - Tony Lema,San Leandro,CA
+6201,Dragon at Nakoma GR,Clio,CA
+6202,Micke Grove GL,Lodi,CA
+6204,Mallard Lake GC,Yuba City,CA
+6203,Shasta Valley GC,Montague,CA
+6205,Ancil Hoffman GC - Ancil Hoffman GC,Carmichael,CA
+6206,Twin Creeks GC,Salinas,CA
+6207,Salinas Fairways GC - Salinas Fairways GC,Salinas,CA
+6209,Old River GC,Tracy,CA
+6210,Whitney Oaks GC,Rocklin,CA
+6211,Coyote Creek GC - Tournament,San Jose,CA
+6212,Turkey Creek GC,Lincoln,CA
+6214,Mather GC,Mather,CA
+6219,Woodcreek GC - Woodcreek GC,Roseville,CA
+8212,Sepulveda Golf Complex - Encino,Encino,CA
+8238,Hansen Dam Municipal Golf Course,Pacoima,CA
+8273,De Bell Golf Club,Burbank,CA
+8287,Rivers Edge Golf Course,Needles,CA
+8972,Eastlake Country Club,Chula Vista,CA
+8973,Torrey Pines Municipal Golf Course - South,San Diego,CA
+8974,Torrey Pines Municipal Golf Course - North,San Diego,CA
+8975,Green River Golf Club - Green River Golf Club,Corona,CA
+8976,Desert Aire Golf Course,Palmdale,CA
+8978,Santa Barbara Golf Club - Santa Barbara Golf Club,Santa Barbara,CA
+8979,Buena Vista Golf Course,Taft,CA
+8981,Vista Valencia Golf Course - Vista Valencia Golf Course,Valencia,CA
+8982,Westridge Golf Club,La Habra,CA
+8983,Rancho San Joaquin Golf Course - Rancho San Joaquin Golf Course,Irvine,CA
+8984,Pico Rivera Municipal Golf Course,Pico Rivera,CA
+8985,Soule Park Golf Club,Ojai,CA
+8986,Cresta Verde Golf Club,Corona,CA
+8987,The Golf Club at Rancho California,Murrieta,CA
+8988,San Bernardino Golf Club,San Bernardino,CA
+8989,River View Golf Club,Santa Ana,CA
+8990,Elkins Ranch Golf Course,Fillmore,CA
+8991,Chalk Mountain GC,Atascadero,CA
+8992,Shorecliffs Golf Course - Shorecliffs Golf Course,San Clemente,CA
+8993,Camarillo Springs Golf Course,Camarillo,CA
+8994,Los Verdes Golf & Country Club,Rancho Palos Verdes,CA
+8995,Westlake Golf Course,Westlake Village,CA
+8996,River Ridge Golf Club - Victoria Lakes,Oxnard,CA
+8997,Whispering Lakes Golf Club,Ontario,CA
+8998,Birch Hills Golf Course,Brea,CA
+8999,Tierra Rejada Golf Club - Tierra Rejada Golf Club,Moorpark,CA
+9002,San Dimas Canyon Golf Course,San Dimas,CA
+9003,Tijeras Creek Golf Club,Rancho Santa Margarita,CA
+9004,Willowick Golf Course - Willowick Golf Course,Santa Ana,CA
+9007,Simi Hills Golf Course - Simi Hills Golf Course,Simi Valley,CA
+9008,River Ridge Golf Club - Vineyard,Oxnard,CA
+9009,Olivas Links,Ventura,CA
+9016,Griffith Park Golf Club - Harding,Los Angeles,CA
+9010,Ashwood Golf Course - Mesquite/Sycamore,Apple Valley,CA
+9012,Ashwood Golf Course - Sycamore/Birch,Apple Valley,CA
+9011,Ashwood Golf Course - Birch/Mesquite,Apple Valley,CA
+9018,Anaheim Hills Golf Club,Anaheim,CA
+9020,Sandpiper Golf Course,Goleta,CA
+9017,Griffith Park Golf Club - Wilson,Los Angeles,CA
+9019,Rio Hondo Golf Club - Rio Hondo Golf Club,Downey,CA
+9021,Balboa Park Golf Club,San Diego,CA
+9022,Menifee Lakes Country Club - Palms Course,Menifee,CA
+9023,Menifee Lakes Country Club - Lakes Course,Menifee,CA
+9024,Navy Golf Course Seal Beach - Destroyer,Cypress,CA
+9025,Fullerton Golf Club,Fullerton,CA
+9027,Blacklake Golf Resort - Oaks/Lake,Nipomo,CA
+9028,Blacklake Golf Resort - Lake/Canyon,Nipomo,CA
+9029,Blacklake Golf Resort - Canyon/Oaks,Nipomo,CA
+9031,Sterling Hills Golf Club,Camarillo,CA
+9030,Cherry Hills Golf Club - Cherry Hills Golf Club,Sun City,CA
+9032,Anaheim Dad Miller Golf Course - Anaheim Dad Miller Golf Course,Anaheim,CA
+9034,North Kern Golf Course,Bakersfield,CA
+9035,Sea Pines Golf Resort,Los Osos,CA
+9036,Cypress Ridge Golf Course,Arroyo Grande,CA
+9037,River Course at The Alisal - River Course at The Alisal,Solvang,CA
+9038,Carlton Oaks Golf Club,Santee,CA
+9039,Rancho Sierra Golf Course,Lancaster,CA
+9040,David L. Baker Memorial Golf Course,Fountain Valley,CA
+9042,Montebello Golf Course,Montebello,CA
+9043,San Clemente Golf Course - San Clemente Golf Course,San Clemente,CA
+9044,Costa Mesa Golf & Country Club - Mesa Linda,Costa Mesa,CA
+9045,Mountain Meadows Golf Course - Mountain Meadows Golf Course,Pomona,CA
+9046,General Old Golf Course,Riverside,CA
+9047,Rancho Duarte Golf Course,Duarte,CA
+9050,Blythe Municipal Golf Course - Blythe Municipal Golf Course,Blythe,CA
+9051,Brookside Golf Club - Course #1,Pasadena,CA
+9053,Tustin Ranch Golf Club,Tustin,CA
+9054,Costa Mesa Golf & Country Club - Los Lagos,Costa Mesa,CA
+9052,Mile Square Golf Club - Classic Course,Fountain Valley,CA
+9055,Meadowlark Golf Club,Huntington Beach,CA
+9056,Los Robles Greens Golf Course,Thousand Oaks,CA
+9057,The Legends Golf Club at Temeku Hills,Temecula,CA
+9058,Mile Square Golf Club - Players Course,Fountain Valley,CA
+9059,Los Amigos Golf Course,Downey,CA
+9060,Rancho Park Golf Club,Los Angeles,CA
+9061,Rancho Vista Golf Club,Palmdale,CA
+9062,Casta Del Sol Golf Course - Casta Del Sol Golf Course,Mission Viejo,CA
+9063,Rancho Maria Golf Club,Santa Maria,CA
+9064,Dairy Creek GC,San Luis Obispo,CA
+9065,Morro Bay GC,Morro Bay,CA
+9066,Seabee Golf Club of Port Hueneme,Port Hueneme,CA
+9067,El Dorado Park Golf Course - El Dorado Park Golf Course,Long Beach,CA
+9068,Brookside Golf Club - Course #2,Pasadena,CA
+9070,Yucaipa Valley Golf Club - Yucaipa Valley Golf Club,Yucaipa,CA
+9399,Borrego Springs Resort,Borrego Springs,CA
+9402,Temecula Creek Inn Golf Course - Creek/Oaks,Temecula,CA
+9403,Temecula Creek Inn Golf Course - Oaks/Stone House,Temecula,CA
+9404,Temecula Creek Inn Golf Course - Stone House/Creek,Temecula,CA
+9405,The Grand Golf Club,San Diego,CA
+9406,Boulder Oaks Golf Club - Boulder Oaks Golf Club,Escondido,CA
+9407,Riverwalk Golf Club - Friars/Presidio,San Diego,CA
+9408,Riverwalk Golf Club - Mission/Friars,San Diego,CA
+9409,Riverwalk Golf Club - Presidio/Mission,San Diego,CA
+9410,Sycuan Resort - Willow Glen,El Cajon,CA
+9411,Sycuan Resort - Oak Glen,El Cajon,CA
+9412,California Oaks Golf Course,Murrieta,CA
+9413,Laguna Woods Golf Club - Course #2/Course #3,Laguna Woods,CA
+9414,Laguna Woods Golf Club - Course #3/Course #1,Laguna Woods,CA
+9415,Laguna Woods Golf Club - Course #1/Course #2,Laguna Woods,CA
+9417,Steele Canyon Golf Club - Ranch/Vineyard,Jamul,CA
+9416,Miramar Memorial Golf Course - Miramar Memorial Golf Course,San Diego,CA
+9418,Steele Canyon Golf Club - Canyon/Ranch,Jamul,CA
+9419,Steele Canyon Golf Club - Vineyard/Canyon,Jamul,CA
+9421,Admiral Baker Golf Course - South,San Diego,CA
+9420,Admiral Baker Golf Course - North,San Diego,CA
+9422,Coronado Golf Club,Coronado,CA
+9423,Cottonwood Golf Club - Ivanhoe Course,El Cajon,CA
+9425,Carmel Mountain Ranch Country Club,San Diego,CA
+9426,San Juan Hills Golf Club,San Juan Capistrano,CA
+9427,Mission Trails Golf Course - Mission Trails Golf Course,San Diego,CA
+9428,The Bridges at Rancho Santa Fe - The Bridges at Rancho Santa Fe,Rancho Santa Fe,CA
+9429,Woods Valley Golf Club,Valley Center,CA
+9430,Rams Hill Golf Club,Borrego Springs,CA
+9432,Marine Memorial Golf Course,Camp Pendleton,CA
+9433,Sea 'N Air Golf Course - Sea 'N Air Golf Course,San Diego,CA
+9434,Crossings at Carlsbad,Carlsbad,CA
+9436,Goat Hill Park Golf Course - Goat Hill Park Golf Course,Oceanside,CA
+9437,The Vineyard at Escondido,Escondido,CA
+9435,Oceanside Golf Course,Oceanside,CA
+9438,Bonita Golf Club,Bonita,CA
+9439,Welk Resort San Diego,Escondido,CA
+9440,Arrowood Golf Course,Oceanside,CA
+9441,Castle Creek Country Club,Escondido,CA
+9443,Pala Mesa Resort,Fallbrook,CA
+9444,Eagle Crest Golf Club - Eagle Crest Golf Club,Escondido,CA
+9445,Mt. Woodson Golf Club,Ramona,CA
+9446,Oaks North Golf Course - North/East,San Diego,CA
+9447,Oaks North Golf Course - South/North,San Diego,CA
+9448,Oaks North Golf Course - East/South,San Diego,CA
+9449,Maderas Golf Club,Poway,CA
+9450,Tecolote Canyon Golf Course,San Diego,CA
+9451,Aviara Golf Club,Carlsbad,CA
+9453,Willowbrook Golf Course,Lakeside,CA
+9456,Barona Creek Golf Club,Lakeside,CA
+9457,Twin Oaks Golf Course - Twin Oaks Golf Course,San Marcos,CA
+9458,Rancho Bernardo Inn,San Diego,CA
+9459,Chula Vista Golf Course,Bonita,CA
+9460,Barbara Worth Golf Resort,Holtville,CA
+9766,Cinnabar Hills GC - Lake/Mountain,San Jose,CA
+11215,Avondale Golf Club - 9s Played Twice,Palm Desert,CA
+11220,Monterey Country Club - Rain Course,Palm Desert,CA
+11221,Monterey Country Club - East/East,Palm Desert,CA
+11223,Monterey Country Club - South/South,Palm Desert,CA
+11231,Silver Lakes Country Club - East/East,Helendale,CA
+11232,Silver Lakes Country Club - North/North,Helendale,CA
+11233,Silver Lakes Country Club - South/South,Helendale,CA
+11234,The Lakes Country Club - The Old Course,Palm Desert,CA
+11239,Desert Princess Country Club - Old Course,Cathedral City,CA
+11243,Morgan Run Resort & Club - East/East,Rancho Santa Fe,CA
+11244,Morgan Run Resort & Club - North/North,Rancho Santa Fe,CA
+11222,Monterey Country Club - West/West,Palm Desert,CA
+11245,Morgan Run Resort & Club - South/South,Rancho Santa Fe,CA
+11258,Navy Golf Course Seal Beach - Cruiser,Cypress,CA
+11273,El Prado Golf Courses - Dry Creek,Chino,CA
+12509,River View Golf Club - Rain Course,Santa Ana,CA
+12514,The Club at Morningside - Alternate Course,Rancho Mirage,CA
+14293,Moreno Valley Ranch Golf Club - Mountain/Valley,Moreno Valley,CA
+14434,Delano Golf Course,Delano,CA
+14437,Scholl Canyon Golf Club,Glendale,CA
+14438,Indian Wells Golf Resort - Players,Indian Wells,CA
+14439,Indian Wells Golf Resort - Celebrity,Indian Wells,CA
+14440,Mountain Vista Golf Club at Sun City Palm Desert - San Gorgonio,Palm Desert,CA
+14441,Mountain Vista Golf Club at Sun City Palm Desert - Santa Rosa,Palm Desert,CA
+14448,The Plantation Golf Club,Indio,CA
+14444,Desert Dunes Golf Club,Desert Hot Springs,CA
+14449,The Springs at Borrego,Borrego Springs,CA
+14450,Tierra del Sol,California City,CA
+14452,Pine Mountain Golf Club - Pine Mountain Golf Club,Pine Mountain Club,CA
+14454,Skyline Ranch Country Club,Valley Center,CA
+14459,Newport Beach Golf Course,Newport Beach,CA
+14460,North Golf Course,Sun City,CA
+14463,La Quinta Country Club - La Quinta Country Club,La Quinta,CA
+14465,Bixby Village Golf Course,Long Beach,CA
+14467,Tees and Trees Golf Course,Barstow,CA
+14471,Marshallia Ranch Golf Course,Vandenberg Afb,CA
+14472,Lake Lindero Country Club - Lake Lindero Country Club,Agoura Hills,CA
+14473,Hidden Valley Golf Club - Hidden Valley Golf Club,Norco,CA
+14484,Fairmount Golf Course - Fairmount Golf Course,Riverside,CA
+14494,La Canada Flintridge Country Club,La Canada,CA
+20813,Corral de Tierra CC,Salinas,CA
+20812,Martis Camp - Martis Camp,Truckee,CA
+20814,Pasatiempo GC - Pasatiempo GC,Santa Cruz,CA
+20815,Chardonnay GC,Napa,CA
+20817,Auburn Valley GC - Auburn Valley GC,Auburn,CA
+20818,Sequoyah CC - Sequoyah CC,Oakland,CA
+20819,Green Valley CC,Fairfield,CA
+20821,Oakmont GC - West,Santa Rosa,CA
+20824,Half Moon Bay GL - Ocean,Half Moon Bay,CA
+20823,Half Moon Bay GL - Old,Half Moon Bay,CA
+20825,Cameron Park CC,Cameron Park,CA
+20826,Seascape GC,Aptos,CA
+20830,Silverado Resort - South,Napa,CA
+20831,Silverado Resort - North,Napa,CA
+20832,Villages GCC (The),San Jose,CA
+20834,Alta Sierra CC - Alta Sierra CC,Grass Valley,CA
+20835,Blackhawk CC - Lakeside,Danville,CA
+20836,Blackhawk CC - Falls,Danville,CA
+20837,La Rinconada CC - La Rinconada CC,Los Gatos,CA
+20838,River Island CC,Porterville,CA
+20839,Granite Bay GC - Granite Bay GC,Granite Bay,CA
+20840,Rossmoor GC - Creekside,Walnut Creek,CA
+20841,Rossmoor GC - Dollar Ranch,Walnut Creek,CA
+20844,Kings CC,Hanford,CA
+20847,Belmont CC,Fresno,CA
+20858,Madera GCC - Madera GCC,Madera,CA
+20861,Claremont CC,Oakland,CA
+20865,Rancho Murieta CC - South,Rancho Murieta,CA
+20866,Rancho Murieta CC - North,Rancho Murieta,CA
+20868,Poppy Hills GC - Poppy Hills GC,Pebble Beach,CA
+20869,Winchester CC,Meadow Vista,CA
+20870,Almaden CC - Almaden CC,San Jose,CA
+20872,Monterey Peninsula CC - Shore,Pebble Beach,CA
+20871,Monterey Peninsula CC - Dunes,Pebble Beach,CA
+20873,CordeValle,San Martin,CA
+20874,Castlewood CC - Hill,Pleasanton,CA
+20875,Castlewood CC - Valley,Pleasanton,CA
+20876,Bodega Harbour (Links at),Bodega Bay,CA
+20877,San Joaquin CC,Fresno,CA
+20878,Deer Ridge CC,Brentwood,CA
+20879,Shadow Lakes GC,Brentwood,CA
+20880,Greenhorn Creek GC - Greenhorn Creek GC,Angels Camp,CA
+20882,Burlingame CC,Hillsborough,CA
+20885,Aetna Springs GC,Pope Valley,CA
+20887,North Ridge CC - North Ridge CC,Fair Oaks,CA
+20888,Orinda CC,Orinda,CA
+20889,Stonetree GC (Bay Club at),Novato,CA
+20890,Marin CC - Marin CC,Novato,CA
+20892,Discovery Bay CC,Discovery Bay,CA
+20893,Sierra View CC,Roseville,CA
+20894,Butte Creek CC,Chico,CA
+20895,Schaffer's Mill - Schaffer's Mill,Truckee,CA
+20897,Lake Wildwood CC - Lake Wildwood CC,Penn Valley,CA
+20898,Menlo CC,Woodside,CA
+20899,El Macero CC,El Macero,CA
+20900,Catta Verdera CC,Lincoln,CA
+20901,Nicklaus Club - Monterey - Nicklaus Club - Monterey,Monterey,CA
+20903,Contra Costa CC,Pleasant Hill,CA
+20905,Crow Canyon CC - Crow Canyon CC,Danville,CA
+20906,Serrano CC - Serrano CC,El Dorado Hills,CA
+20908,Carmel Valley Ranch GC,Carmel,CA
+20914,Del Paso CC,Sacramento,CA
+20909,Saddle Creek  Resort - Saddle Creek  Resort,Copperopolis,CA
+20916,San Geronimo GC,San Geronimo,CA
+20918,Lake Merced GC - Lake Merced GC,Daly City,CA
+20919,Green Hills CC,Millbrae,CA
+20920,Meadow Club,Fairfax,CA
+20921,Grizzly Ranch GC,Portola,CA
+20925,Mayacama GC - Mayacama GC,Santa Rosa,CA
+20926,Eagle Springs GCC - Eagle Springs GCC,Friant,CA
+20927,Peninsula GCC,San Mateo,CA
+20929,Sonoma GC,Sonoma,CA
+20930,Visalia CC - Visalia CC,Visalia,CA
+20933,Stanford University GC,Stanford,CA
+20932,Round Hill CC - Round Hill CC,Alamo,CA
+20934,Pebble Beach GL,Pebble Beach,CA
+20937,Mt Whitney GC,Lone Pine,CA
+20940,Lake of the Pines CC - Lake of the Pines CC,Auburn,CA
+20941,Crystal Springs GC,Burlingame,CA
+20943,Eagle Vines GC - Eagle Vines GC,Napa,CA
+20942,Canyon Oaks CC - Canyon Oaks CC,Chico,CA
+20946,Swallow's Nest GC,Sacramento,CA
+20945,Cypress Point Club,Pebble Beach,CA
+20948,Lahontan GC,Truckee,CA
+20951,Pine Mountain Lake CC,Groveland,CA
+20953,Brookside CC,Stockton,CA
+20954,Tehama GC - Tehama GC,Carmel,CA
+20955,Diablo Country Club, 1914,Diablo,CA
+20956,Napa Valley CC - Napa Valley CC,Napa,CA
+20957,Moraga CC,Moraga,CA
+20958,Sequoia Woods CC,Arnold,CA
+20960,Silver Creek Valley CC,San Jose,CA
+20962,Copper River CC,Fresno,CA
+20963,Wilcox Oaks GC,Red Bluff,CA
+20965,Valley Hi CC - Valley Hi CC,Elk Grove,CA
+20966,Canyon Lakes GC & Brewery - Canyon Lakes GC & Brewery,San Ramon,CA
+20969,Hiddenbrooke GC,Vallejo,CA
+20970,Sunnyside CC,Fresno,CA
+20971,Richmond CC,Richmond,CA
+20972,Spyglass Hill GC - Spyglass Hill GC,Pebble Beach,CA
+20973,Ruby Hill GC,Pleasanton,CA
+25039,Shadow Hills Golf Club - North Course,Indio,CA
+26156,Sands RV Resort Golf Club,Desert Hot Springs,CA
+28395,Davis GC,Davis,CA
+26161,Saratoga CC,Saratoga,CA
+28922,Whittier Narrows Golf Course - Mountain/River,Rosemead,CA
+28924,Whittier Narrows Golf Course - Pine/Mountain,Rosemead,CA
+29181,Gilroy GC,Gilroy,CA
+28925,Kern River Golf Course - Kern River Golf Course,Bakersfield,CA
+29228,Coyote Run GC - Coyote Run GC,Beale Afb,CA
+29333,Bartley Cavanaugh GC,Sacramento,CA
+29904,Bing Maloney GC,Sacramento,CA
+29937,StoneRidge Country Club (CLOSED) - Alternate Course,Poway,CA
+29962,Wawona GC,Wawona,CA
+29977,Madera Municipal GC - Madera Municipal GC,Madera,CA
+29978,Van Buren Golf Center,Riverside,CA
+30499,California GC of SF - California GC of SF,South San Francisco,CA
+30500,Fremont Park GPC,Fremont,CA
+30501,St Stanislaus GC,Modesto,CA
+30505,Adams Springs GC,Loch Lomond,CA
+30504,Ponderosa GC,Truckee,CA
+30507,Boulder Ridge (GC at),San Jose,CA
+30510,Mount Huff GC,Crescent Mills,CA
+30511,Hunter Ranch GC - Hunter Ranch GC,Paso Robles,CA
+30512,Los Altos GCC - Los Altos GCC,Los Altos,CA
+30513,Timber Creek GC - Sierra Pines,Roseville,CA
+30514,Timber Creek GC - Lakes/Oaks,Roseville,CA
+30515,Timber Creek GC - Lakes/Sierra Pines,Roseville,CA
+30516,Timber Creek GC - Oaks/Sierra Pines,Roseville,CA
+30517,Oakmoore GC - Oakmoore GC,Stockton,CA
+30518,Brooktrails GC,Willits,CA
+30520,Lake Shastina GR - Championship,Weed,CA
+30521,Lake Shastina GR - Scottish Links,Weed,CA
+30525,Haggin Oaks GC - Arcade Creek,Sacramento,CA
+30530,Boulder Creek GCC&R,Boulder Creek,CA
+30531,Pleasanton GC,Pleasanton,CA
+30533,Furnace Creek GC,Death Valley,CA
+30536,Lake Tahoe GC - Lake Tahoe GC,South Lake Tahoe,CA
+30534,Gleneagles GC,San Francisco,CA
+30538,Oakhurst CC - Oakhurst CC,Clayton,CA
+30537,Northstar at Tahoe GC,Truckee,CA
+30539,Rolling Greens GC of Granite Bay,Roseville,CA
+30540,Oakmont GC - East,Santa Rosa,CA
+30541,Olympic Club - Lakeside,San Francisco,CA
+30554,Cinnabar Hills GC - Mountain/Canyon,San Jose,CA
+30544,Berkeley CC - Berkeley CC,El Cerrito,CA
+30555,Bayonet/Black Horse GC - Bayonet,Seaside,CA
+30557,Yolo Fliers Club,Woodland,CA
+30556,Bayonet/Black Horse GC - Black Horse,Seaside,CA
+30562,Sierra Star GC,Mammoth Lakes,CA
+30542,Olympic Club - Ocean,San Francisco,CA
+30563,Bishop CC,Bishop,CA
+30558,Pruneridge GC,Santa Clara,CA
+30569,Diablo Grande GCC - Ranch,Patterson,CA
+30568,Reserve at Spanos Park GC,Stockton,CA
+30571,Meadowood Napa Valley GC,St. Helena,CA
+30572,Del Rio CC - Oak/Bluff,Modesto,CA
+30573,Del Rio CC - River/Oak,Modesto,CA
+30574,Del Rio CC - Bluff/River,Modesto,CA
+30575,Eagle Ridge GC,Gilroy,CA
+30576,Riverview GCC,Redding,CA
+30580,Sea Ranch GC,Sea Ranch,CA
+30583,Santa Clara GTC,Santa Clara,CA
+30581,Peacock Gap GCC,San Rafael,CA
+30585,Spanish Bay (Links at),Pebble Beach,CA
+30586,Turlock GCC,Turlock,CA
+30588,Shelter Cove GL,Shelter Cove,CA
+30589,Diablo Hills GC,Walnut Creek,CA
+30595,Lone Tree GC,Antioch,CA
+30593,Grape Ranch GC - Grape Ranch GC,Palo Cedro,CA
+30596,Old Brockway GC,Kings Beach,CA
+30597,Kings River GCC,Kingsburg,CA
+30598,Jack Tone GC,Ripon,CA
+30599,Ranch GC (The),San Jose,CA
+30603,Gray's Crossing (GC at) - Gray's Crossing (GC at),Truckee,CA
+30601,Ridge (The),Auburn,CA
+30604,Joe Mortara GC,Vallejo,CA
+30605,Tracy GCC,Tracy,CA
+30607,Escalon GC,Escalon,CA
+30608,Auburn Lake Trails GC,Cool,CA
+30610,Lava Creek GC - Lava Creek GC,Paradise,CA
+30613,Links Course at Paso Robles,Paso Robles,CA
+30611,Pajaro Valley GC,Royal Oaks,CA
+30616,Squaw Creek GC (Resort at),Olympic Valley,CA
+30617,Deep Cliff GC,Cupertino,CA
+30619,Apple Mountain GR,Camino,CA
+30620,Lockeford Springs GC,Lodi,CA
+30622,Diamond Oaks GC,Roseville,CA
+30623,Morgan Creek GC,Roseville,CA
+30624,Oakdale GCC - Oakdale GCC,Oakdale,CA
+30628,Indian Creek GC,Loomis,CA
+30629,Sharon Heights GCC - Sharon Heights GCC,Menlo Park,CA
+30630,McInnis Park GC,San Rafael,CA
+30632,River Oaks GC (Ceres),Ceres,CA
+30635,Modesto Muni GC,Modesto,CA
+30636,San Jose Muni,San Jose,CA
+30640,Three Rivers GC,Three Rivers,CA
+30641,Palo Alto Hills CC - Palo Alto Hills CC,Palo Alto,CA
+30643,Gavilan GC,Gilroy,CA
+30642,Woodlake Ranch GR - Woodlake Ranch GR,Woodlake,CA
+30646,Buckingham GC - Buckingham GC,Kelseyville,CA
+30644,Buchanan Fields GC - Buchanan Fields GC,Concord,CA
+30886,Shady Canyon Golf Club - Shady Canyon Golf Club,Irvine,CA
+30860,Recreation Park - South Course,Long Beach,CA
+30891,Sepulveda Golf Complex - Balboa,Encino,CA
+30893,Los Serranos Golf Club - North Course,Chino Hills,CA
+31258,Braemar Country Club - Masters/US Open,Tarzana,CA
+31264,Braemar Country Club - US Open/Western,Tarzana,CA
+31266,Braemar Country Club - Western/Masters,Tarzana,CA
+31320,Balboa Park Golf Club - 9 Hole Course,San Diego,CA
+31324,Mill Valley GC - Short Course,Mill Valley,CA
+31960,Brea Creek Golf Course,Brea,CA
+32715,Indian Wells Country Club - Old Course,Indian Wells,CA
+34276,Moorpark Country Club - Canyon Crest/Ridgeline,Moorpark,CA
+34278,Moorpark Country Club - Ridgeline/Creekside,Moorpark,CA
+34277,Moorpark Country Club - Creekside/Canyon Crest,Moorpark,CA
+34616,Avila Beach Golf Resort - Event Course 1,Avila Beach,CA
+36246,Cherry Island GC,Elverta,CA
+36353,Chuck Corica GC - Fry,Alameda,CA
+36354,Chuck Corica GC - Clark,Alameda,CA
+36561,Cimarron Golf Resort - Pebble,Cathedral City,CA
+36417,Green Tree Golf Course,Victorville,CA
+36713,Woodbridge GCC - River/Lake,Woodbridge,CA
+36712,Woodbridge GCC - Middle/River,Woodbridge,CA
+38412,Mount St Helena GC,Calistoga,CA
+36714,Woodbridge GCC - Lake/Middle,Woodbridge,CA
+38414,Rolling Hills (The Links at) - Rolling Hills (The Links at),Corning,CA
+38413,San Luis Obispo CC,San Luis Obispo,CA
+38445,Plumas Pines GR - Plumas Pines GR,Blairsden,CA
+38446,Delta View GC (Pittsburg) - Delta View GC (Pittsburg),Pittsburg,CA
+38447,Lake Oroville G&EC,Oroville,CA
+38448,Moffett Field (GC at),Sunnyvale,CA
+38449,Dragonfly GC - Dragonfly GC,Madera,CA
+38450,Riverside GC - Riverside GC,Fresno,CA
+38452,Wente Vineyards (Course at),Livermore,CA
+38453,Whitehawk Ranch GC - Whitehawk Ranch GC,Clio,CA
+38454,Yocha DeHe GC at Cache Creek - Yocha-De-He GC at Cache Creek,Brooks,CA
+38485,Baywood GCC,Arcata,CA
+38455,Benbow Valley R&CC - Benbow Valley R&CC,Garberville,CA
+38486,Bridges (The),San Ramon,CA
+38487,Cold Springs GCC - Cold Springs GCC,Placerville,CA
+38488,Fort Washington GCC - Fort Washington GCC,Fresno,CA
+38489,Fountaingrove GAC - Fountaingrove GAC,Santa Rosa,CA
+38490,Merced GCC - Merced GCC,Merced,CA
+38491,Peach Tree GCC,Marysville,CA
+38492,Petaluma GCC,Petaluma,CA
+38493,Plumas Lake GCC,Olivehurst,CA
+38494,Preserve GC (The),Carmel,CA
+38495,Quail Lodge GC - Quail Lodge GC,Carmel,CA
+38496,River Oaks GC (Nicolaus),Nicolaus,CA
+38498,Spring Creek GCC,Ripon,CA
+38497,Crazy Horse Ranch (Club at) - Crazy Horse Ranch (Club at),Salinas,CA
+38499,Stockton GCC,Stockton,CA
+38500,Stonebrae (TPC),Hayward,CA
+38501,Tierra Oaks (GC at) - Tierra Oaks (GC at),Redding,CA
+38503,Santa Rosa GCC,Santa Rosa,CA
+38502,San Francisco GC,San Franisco,CA
+38519,Haggin Oaks GC - MacKenzie,Sacramento,CA
+38556,Swenson Park GC,Stockton,CA
+38557,Likely Links,Likely,CA
+38558,Rio Vista The Golf Club at,Rio Vista,CA
+38560,Elkhorn GC,Stockton,CA
+40964,Brentwood (GC at) - Diablo/Creekside,Brentwood,CA
+42688,The Country Club of Rancho Bernardo - Alternate Course,San Diego,CA
+43017,Echo Hills Golf Course,Hemet,CA
+43313,Blacklake Golf Resort - Lake,Nipomo,CA
+43357,Blacklake Golf Resort - Oaks,Nipomo,CA
+44182,Rancho Las Palmas Country Club - Rain Course,Rancho Mirage,CA
+44190,Avila Beach Golf Resort - Event Course 2,Avila Beach,CA
+44436,Encinitas Ranch Golf Course,Encinitas,CA
+44895,Ridgemark GCC - Ridgemark,Hollister,CA
+44996,Vista Valley CC - Par 71,Vista,CA
+45095,Bermuda Dunes Country Club - Lake,Bermuda Dunes,CA
+45292,Hawk's Landing Golf Club - Hawk's Landing Golf Club,Yucca Valley,CA
+45847,Woodland Meadows Golf Center - Woodland Meadows Golf Center,Woodland,CA
+45834,Lakeview Golf Course,El Centro,CA
+45896,Avila Beach Golf Resort - Avila Beach Golf Course,Avila Beach,CA
+45959,Ashwood Golf Course - Birch/Birch,Apple Valley,CA
+45960,Ashwood Golf Course - Mesquite/Mesquite,Apple Valley,CA
+45961,Ashwood Golf Course - Sycamore/Sycamore,Apple Valley,CA
+45998,Bluff Pointe GC,Fresno,CA
+46047,Royal Vista Golf Club - East/North,Walnut,CA
+46048,Royal Vista Golf Club - North/South,Walnut,CA
+46049,Royal Vista Golf Club - South/East,Walnut,CA
+46056,'16 USWO - '16 USWO,Far Hills,CA
+46420,Poppy Ridge GC - Poppy Ridge - Merlot/Chardonnay,Livermore,CA
+46422,Poppy Ridge GC - Poppy Ridge - Zinfandel/Merlot,Livermore,CA
+46424,Poppy Ridge GC - Poppy Ridge - Chardonnay/Zinfandel,Livermore,CA
+46491,Tri Palms Golf Course - Alternate Course,Thousand Palms,CA
+46584,Canyon Crest Country Club - Alternate Course,Riverside,CA
+46666,Woodbridge GCC - Lake/Lake,Woodbridge,CA
+46717,Woodbridge GCC - Temp Lake - RiverMiddle,Woodbridge,CA
+46883,Brookside Golf Club - 9-Hole Stadium Course,Pasadena,CA
+46953,Sand Canyon Country Club - Desert/Mountain,Santa Clarita,CA
+47178,Mace Meadow - Mace Meadow,Pioneer,CA
+47190,National City Golf Course - National City Golf Course,National City,CA
+47198,Sand Canyon Country Club - Mountain/Valley,Santa Clarita,CA
+47310,Golden Era Golf Course - Golden Era Golf Course,San Jacinto,CA
+47349,The Valley Club of Montecito - Inside 9,Santa Barbara,CA
+47591,Mesa Verde Country Club - Mesa Verde CC - TEMPORARY RATINGS,Costa Mesa,CA
+47507,Lake Tamarisk Golf Course - Lake Tamarisk Golf Course,Desert Center,CA
+4370,COUNTRY CLUB OF ARKANSAS,Maumelle,AR
+4372,HOT SPRINGS VILLAGE - PONCE DE LEON,Hot Springs Village,AR
+4378,ROLLING HILLS COUNTRY CLUB,Cabot,AR
+4380,Paradise Valley Golf and AC,Fayetteville,AR
+4382,CONWAY COUNTRY CLUB,Conway,AR
+4384,New Haven Golf Club,Texarkana,AR
+4386,CENTENNIAL VALLEY G & AC,Conway,AR
+4390,BLYTHEVILLE COUNTRY CLUB,Blytheville,AR
+4398,EAGLE HILL GOLF & A. C.,Little Rock,AR
+4392,MOUNTAIN RANCH GOLF CLUB,Fairfield Bay,AR
+4388,TEXARKANA COUNTRY CLUB,Texarkana,AR
+4399,SAGE MEADOWS COUNTRY CLUB,Jonesboro,AR
+4409,PINNACLE COUNTRY CLUB,Rogers,AR
+4401,PARAGOULD COUNTRY CLUB,Paragould,AR
+4402,CARROLL COUNTY COUNTRY CLUB,Berryville,AR
+4406,HOLIDAY ISLAND GOLF CLUB,Holiday Island,AR
+4379,COOPER'S HAWK,Melbourne,,AR
+4411,Maumelle Country Club,Maumelle,AR
+4414,Blessings Golf Club - Blessings Golf Club,Fayetteville,AR
+4417,DIAMANTE COUNTRY CLUB,Hot Springs Village,AR
+4419,MEADOWBROOK COUNTRY CLUB,West Memphis,AR
+4418,PINE BLUFF COUNTRY CLUB,Pine Bluff,AR
+4421,Ridgecrest Country Club,Forrest City,AR
+4428,PINE HILLS COUNTRY CLUB,Smackover,AR
+4423,CYPRESS CREEK at Greystone,Cabot,AR
+4410,Lion's Den,Dardanelle,AR
+4431,El Dorado Lions Club,El Dorado,AR
+4434,EL DORADO COUNTRY CLUB,El Dorado,AR
+4436,GREYSTONE (MOUNTAIN SPRINGS),Cabot,AR
+4430,MORRILTON COUNTRY CLUB,Morrilton,AR
+4437,HOT SPRINGS VILLAGE - CORTEZ GOLF COURSE,Hot Springs Village,AR
+4439,Pleasant Valley Country Club - Pleasant Valley Country Club (1 - 19),Little Rock,AR
+4440,Pleasant Valley Country Club - Pleasant Valley Country Club (10 - 19),Little Rock,AR
+4447,EAGLE CREST GOLF COURSE,Alma,AR
+4445,HOT SPRINGS VILLAGE - MAGELLAN GOLF COURSE,Hot Springs Village,AR
+4454,LITTLE CREEK GOLF COURSE,Ratcliff,AR
+4455,Belvedere Golf Resort,Hot Springs,AR
+4456,STONELINKS GOLF CLUB,North Little Rock,AR
+4449,OUACHITA COUNTRY CLUB,Mena,AR
+4457,GLENWOOD COUNTRY CLUB,Glenwood,AR
+4458,HINDMAN PARK GOLF COURSE,Little Rock,AR
+4459,DEER RUN GOLF COURSE,Jacksonville,AR
+4432,MALVERN COUNTRY CLUB,Malvern,AR
+4463,HARDSCRABBLE COUNTRY CLUB - HARDSCRABBLE COUNTRY CLUB,Fort Smith,AR
+4465,The Course at Eagle Mountain,Batesville,AR
+4464,CHENAL COUNTRY CLUB - Bear Den,Little Rock,AR
+4466,BURNS PARK GC - BURNS PARK GOLF COURSE (Championship),No. Little Rock,AR
+4468,FAYETTEVILLE COUNTRY CLUB,Fayetteville,AR
+4467,SHADOW VALLEY COUNTRY CLUB,Rogers,AR
+4469,HURRICANE GOLF & COUNTRY CLUB,Bryant,AR
+4474,GALLA CREEK GOLF CLUB,Pottsville,AR
+4470,PRAIRIE CREEK COUNTRY CLUB,Rogers,AR
+4475,MARION GOLF & ATHLETIC CLUB,Marion,AR
+4476,COUNTRY CLUB OF LITTLE ROCK,Little Rock,AR
+4477,HOT SPRINGS VILLAGE - DESOTO GOLF COURSE,Hot Springs Village,AR
+4479,HOT SPRINGS VILLAGE - ISABELLA (NINA/PINTA),Hot Springs Village,AR
+4489,RIDGEPOINTE COUNTRY CLUB,Jonesboro,AR
+4488,Searcy Country Club,Searcy,AR
+4490,PERSIMMON RIDGE GOLF CLUB,Greenbrier,AR
+4493,Forrest City Country Club,Forrest City,AR
+4462,OZARK RECREATION GOLF CLUB,Ozark,AR
+4492,Diamondhead Country Club,Hot Springs,AR
+4496,HELENA COUNTRY CLUB,Helena,AR
+4494,FOX HILLS COUNTRY CLUB,Paragould,AR
+4497,INDIAN HILLS GOLF & COUNTRY CLUB,Fairfield Bay,AR
+4495,FORDYCE COUNTRY CLUB,Fordyce,AR
+4498,HARBOR OAKS GOLF Club,Pine Bluff,AR
+4499,Bella Vista - Country Club Golf Course - Country Club Golf Course,Bella Vista Village,AR
+4504,Fianna Hills Country Club,Fort Smith,AR
+4502,JONESBORO COUNTRY CLUB,Jonesboro,AR
+4512,RED APPLE INN & GOLF CLUB,Heber Springs,AR
+4513,STUTTGART COUNTRY CLUB,Stuttgart,AR
+4514,HOT SPRINGS VILLAGE - GRANADA GOLF COURSE,Hot Springs Village,AR
+4516,HARRISON COUNTRY CLUB,Harrison,AR
+4505,THE COURSE AT RIVER OAKS,Searcy,AR
+4518,BIG CREEK GOLF & COUNTRY CLUB,Mountain Home,AR
+4520,HOT SPRINGS VILLAGE - CORONADO GOLF COURSE,Hot Springs Village,AR
+4525,CEDAR COUNTRY CLUB,Van Buren,AR
+4519,RAZORBACK PARK GOLF COURSE,Fayetteville,AR
+4524,SILOAM SPRINGS COUNTRY CLUB,Siloam Springs,AR
+4530,THUNDERBIRD COUNTRY CLUB,Heber Springs,AR
+4529,DIAMOND HILLS COUNTRY CLUB,Diamond City,AR
+4534,LITTLE RIVER COUNTRY CLUB,Winthrop,AR
+4531,DOGWOOD HILLS,Bella Vista Village,AR
+4536,Monticello Country Club,Monticello,AR
+4535,Silver Springs Country Club,Benton,AR
+4532,OAK HILLS COUNTRY CLUB,Dewitt,AR
+4538,GRAND PRARIE COUNTRY CLUB,Hazen,AR
+4539,HOT SPRINGS CC  - Arlington,Hot Springs,AR
+4542,MILLWOOD LANDING GOLF CLUB,Ashdown,AR
+4540,CROWLEY RIDGE COUNTRY CLUB,Wynne,AR
+4546,THE CREEKS PUBLIC LINKS,Cave Springs,AR
+4549,THUNDER BAYOU GOLF CLUB,Blytheville,AR
+4547,HOPE COUNTRY CLUB,Hope,AR
+4537,GRAND PRAIRIE COUNTRY CLUB,Hazen,AR
+4552,TANNENBAUM GOLF CLUB,Drasco,AR
+4545,LOST SPRINGS GOLF & AC,Rogers,AR
+4553,THE FIRST TEE OF FORT SMITH,Fort Smith,AR
+4554,CLARKSVILLE COUNTRY CLUB,Clarksville,AR
+4557,NASHVILLE COUNTRY CLUB,Nashville,AR
+4555,HOLIDAY ISLAND (Island Course),Holiday Island,AR
+4559,ISLAND COURSE, HOLIDAY ISLAND,Holiday Island,AR
+4564,First Tee of Central Arkansas - Chairman's Course,Little Rock,AR
+4558,CHENAL COUNTRY CLUB - Founders,Little Rock,AR
+4566,DEER TRAILS GOLF COURSE,Barling,AR
+4561,THE LINKS AT TEXARKANA,Texarkana,AR
+4551,BIG SUGAR GOLF CLUB,Pea Ridge,AR
+4569,Lakeside Golf Club,Lake Village,AR
+4572,TWIN LAKES GOLF COURSE,Mountain Home,AR
+4571,PRESCOTT COUNTRY CLUB,Prescott,AR
+4573,THE GOLF CLUB AT VALLEY VIEW,Farmington,AR
+4580,CHAMBERLYNE COUNTRY CLUB,Danville,AR
+4579,THREE RIVERS COUNTRY CLUB,Marked Tree,AR
+4567,BIG LAKE COUNTRY CLUB,Manila,AR
+4581,MAGNOLIA COUNTRY CLUB,Magnolia,AR
+4590,BRINKLEY COUNTRY CLUB,Brinkley,AR
+4591,CYPRESS CREEK COUNTRY CLUB,Mccrory,AR
+4582,NEWPORT COUNTRY CLUB,Newport,AR
+5105,The Greens at North Hills,Sherwood,AR
+24616,Nutters Chapel Golf & Country Club,Conway,AR
+27993,DEGRAY STATE PARK GOLF COURSE,Bismarck,AR
+27995,Prairie Country Club,Crossett,AR
+27994,Caddo Creek,Bismarck,AR
+27996,Trumann Country Club,Trumann,AR
+27999,Russellville Country Club - Russellville Country Club,Russellville,AR
+28001,Highlands Golf Course,Bella Vista,AR
+28000,Berksdale Golf Course,Bella Vista,AR
+28004,Rebsamen Golf Course,Little Rock,AR
+4592,ENGLAND COUNTRY CLUB,England,AR
+28002,Kingswood Golf Course,Bella Vista,AR
+28005,Springdale Country Club,Springdale,AR
+31994,War Memorial Golf Course,Little Rock,AR
+35539,HOT SPRINGS VILLAGE - ISABELLA (PINTA/SANTA MARIA),Hot Springs Village,AR
+35538,HOT SPRINGS VILLAGE - ISABELLA (SANTA MARIA/NINA),Hot Springs Village,AR
+28006,Camden Country Club,Camden,AR
+32052,HOT SPRINGS CC  - Park,Hot Springs,AR
+36331,BEN GEREN GOLF COURSE - Magnolia-Silo,Fort Smith,AR
+36330,BEN GEREN GOLF COURSE - Magnolia-Willow,Fort Smith,AR
+36351,BURNS PARK GC - BURNS PARK GOLF COURSE (Tournament),No. Little Rock,AR
+36332,BEN GEREN GOLF COURSE - Silo-Willow,Fort Smith,AR
+38173,CHEROKEE VILLAGE - CHEROKEE VILLAGE (SOUTH),Cherokee Village,AR
+38174,CHEROKEE VILLAGE - CHEROKEE VILLAGE (NORTH),Cherokee Village,AR
+36471,Rolling Hills Country Club,Pocahontas,AR
+38353,Southern Oaks Country Club,Jacksonville,AR
+38626,Pleasant Valley Country Club - Pleasant Valley Country Club (1 - 10),Little Rock,AR
+38971,HOT SPRINGS VILLAGE - BALBOA GOLF COURSE,Hot Springs Village,AR
+38978,Stonebridge Meadows Golf Club,Fayetteville, Ar,AR
+41139,The Ridges - West-East,Wynne,AR
+41131,The Ridges - North-West,Wynne,AR
+42633,The Greens on Blossom Way,Rogers,AR
+42678,Delta Country Club,Mcgehee,AR
+41133,The Ridges - North-East,Wynne,AR
+42907,Vache Grasse Golf Club,Greenwood,AR
+43271,Mystic Creek Golf Club,El Dorado,AR
+44203,Sheridan Country Club,Sheridan,AR
+45571,First Tee of Central Arkansas - Honors Course,Little Rock,AR
+42676,Warren Country Club,Warren,AR
+44399,Red Martin Country Club,Gurdon,AR
+46935,Bella Vista - Scotsdale GC - Scotsdale GC,Bella Vista Village,AR
