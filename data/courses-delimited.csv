@@ -296,7 +296,7 @@
 877,Skybrook Gc,Huntersville,NC
 878,Pine Lake Cc,Charlotte,NC
 879,Highland Creek Gc,Charlotte,NC
-880,Ocean Ridge Plantation - Panther'S Run Course,Sunset Beach,NC
+880,Ocean Ridge Plantation - Panther's Run Course,Sunset Beach,NC
 881,Ocean Ridge Plantation - Lion'S Paw Course,Sunset Beach,NC
 882,Carmel Cc - North Course,Charlotte,NC
 883,River Landing - Landing Course,Wallace,NC
@@ -566,7 +566,7 @@
 1192,Glencoe Country Club,Glencoe,MN
 1193,Shoreland Country Club,St. Peter,MN
 1197,Dahlgreen Golf Club - Dahlgreen Golf Club,Chaska,MN
-1198,Halla Greens Chanhassen Executive Gc And Dr - Halla Greens Chanhassen Executive Gc And Dr,Chanhassen,MN
+1198,Halla Greens Chanhassen Executive Gc And Dr,Chanhassen,MN
 1199,Detroit Cc - Pine To Palm,Detroit Lakes,MN
 1200,Lida Greens Golf Course,Pelican Rapids,MN
 1201,Wildflower At Fair Hills,Detroit Lakes,MN
@@ -1057,7 +1057,7 @@
 2628,Garnett Country Club - Garnett Country Club,Garnett,KS
 2629,Lake Perry Golf Course,Ozawkie,KS
 2631,Quail Ridge Golf Course - Quail Ridge Golf Course,Winfield,KS
-2632,Crazy Horse Sports Club & Golf Course - Crazy Horse Sports Club & Golf Course,Hutchinson,KS
+2632,Crazy Horse Sports Club & Golf Course ,Hutchinson,KS
 2633,Holton Cc,Holton,KS
 2635,Hickory Hollow Gc,Ottawa,KS
 2636,Oberlin Country Club,Oberlin,KS
@@ -1201,7 +1201,7 @@
 3596,Stone Harbor Golf Club,Cape May Ct. House,NJ
 3833,Capitol City Golf Course - Capitol City Golf Course,Lacey,WA
 3834,Royal City Public Golf Course,Royal City,WA
-3835,Tumwater Valley Municipal Golf Course - Tumwater Valley Municipal Golf Course,Tumwater,WA
+3835,Tumwater Valley Municipal Golf Course ,Tumwater,WA
 3836,The Highlands Golf Course - The Highlands Golf Course,Post Falls,ID
 3837,Dakota Creek Golf And Country Club - Dakota Creek Golf And Country Club,Custer,WA
 3838,Whidbey Golf And Country Club - Whidbey Golf And Country Club,Oak Harbor,WA
@@ -1376,7 +1376,7 @@
 4038,Grandview Golf Course,Custer,WA
 4039,North Shore Golf Course - North Shore Golf Course,Tacoma,WA
 4040,American Lake Golf Course - American Lake Golf Course,Lakewood,WA
-4041,The Coeur D'Alene Resort Golf Course - The Coeur D'Alene Resort Golf Course,Coeur D'Alene,ID
+4041,The Coeur D'Alene Resort Golf Course ,Coeur D'Alene,ID
 4042,Westwood West Golf Course,Yakima,WA
 4043,Camaloch Golf Course - Camaloch Golf Course,Camano Island,WA
 4044,Glen Acres Golf & Country Club - Glen Acres Golf & Country Club,Seattle,WA
@@ -1649,7 +1649,7 @@
 4683,Red Sky Golf Club - Norman Course,Wolcott,CO
 4684,Mariana Butte Golf Course - Mariana Butte Golf Course,Loveland,CO
 4685,City Park Nine Golf Course - City Park Nine Golf Course,Ft. Collins,CO
-4686,Cheyenne Shadows Golf Club At Ft. Carson - Cheyenne Shadows Golf Club At Ft. Carson,Ft. Carson,CO
+4686,Cheyenne Shadows Golf Club At Ft. Carson,Ft. Carson,CO
 4687,Homestead Golf Course - Homestead Golf Course,Lakewood,CO
 4688,Monte Vista Country Club - Monte Vista Country Club,Monte Vista,CO
 4690,Loveland - The Olde Course,Loveland,CO
@@ -1734,7 +1734,7 @@
 4799,Pinehurst Country Club - Maxwell Course,Denver,CO
 4800,Clubcorp Colorado - Blackstone Course,Aurora,CO
 4801,Lincoln Park Golf Course - Lincoln Park Golf Course,Grand Junction,CO
-4802,Deer Creek Golf Club At Meadow Ranch - Deer Creek Golf Club At Meadow Ranch,Littleton,CO
+4802,Deer Creek Golf Club At Meadow Ranch ,Littleton,CO
 4803,Sumo Golf Village,Florence,CO
 4804,Highland Meadows Golf Course,Windsor,CO
 4805,Castle Pines Golf Club,Castle Rock,CO
@@ -2712,7 +2712,7 @@
 7687,Blue Mash Golf Course,Laytonsville,MD
 7688,Maplehurst Country Club,Frostburg,MD
 7689,Clifton Park Golf Course,Baltimore,MD
-7690,Choptank River Golf And Events Center - Choptank River Golf & Events Center,Cambridge,MD
+7690,Choptank River Golf And Events Center ,Cambridge,MD
 7691,Sherwood Forest Golf Course,Sherwood Forest,MD
 7692,Eagles Landing - Eagles Landing,Berlin,MD
 7693,Carroll Park,Baltimore,MD
@@ -3404,7 +3404,7 @@
 9199,Soaring Eagles Golf Course,Horseheads,NY
 9201,Turning Stone Casino Resort - Atunyote,Verona,NY
 9202,Skene Valley Country Club - Skene Valley Country Club,Whitehall,NY
-9205,St. Lawrence University Oliver D. Appleton Gc - St. Lawrence University Oliver D. Appleton Gc,Canton,NY
+9205,St. Lawrence University Oliver D. Appleton Gc,Canton,NY
 9207,Rainbow Gc,Greenville,NY
 9208,Pompey Club,Pompey,NY
 9209,Skaneateles Country Club,Skaneateles,NY
@@ -3669,7 +3669,7 @@
 10425,River Oaks Country Club - River Oaks Country Club,Houston,TX
 10426,Traditions Club At Texas A & M,Bryan,TX
 10427,Sherrill Park Golf Course - Course #1,Richardson,TX
-10428,Olympia Hills Golf & Conference Center - Olympia Hills Golf & Conference Center,Universal City,TX
+10428,Olympia Hills Golf & Conference Center,Universal City,TX
 10429,Quicksand Golf Course,San Angelo,TX
 10430,San Angelo Country Club,San Angelo,TX
 10431,Delaware Springs Golf Course,Burnet,TX
@@ -3955,7 +3955,7 @@
 10764,Gleneagles Country Club - Queen'S,Plano,TX
 10765,Hollytree Country Club,Tyler,TX
 10766,Avery Ranch Golf Club - Avery Ranch Golf Club,Austin,TX
-10767,The City Course At The Phillips Event Center - The City Course At The Phillips Event Center,Bryan,TX
+10767,The City Course At The Phillips Event Center,Bryan,TX
 10768,Columbia Lakes Resort & Country Club,West Columbia,TX
 10772,San Antonio Country Club,San Antonio,TX
 10773,Hide-A-Way Lake Golf Club - East/Central,Hideaway,TX
@@ -4885,7 +4885,7 @@
 13066,Green Oaks Country Club,Verona,PA
 13067,Kittanning Country Club,Kittanning,PA
 13068,King Valley Golf Course,Imler,PA
-13069,Philipsburg Elks Lodge & Country Club - Philipsburg Elks Lodge & Country Club,Philipsburg,PA
+13069,Philipsburg Elks Lodge & Country Club ,Philipsburg,PA
 13070,Lone Pine Country Club,Washington,PA
 13071,Wildwood Golf Club,Allison Park,PA
 13073,Champion Lakes Golf Course,Bolivar,PA
@@ -5454,7 +5454,7 @@
 16245,Jerome Country Club,Jerome,ID
 16246,Sun Valley Resort - Trail Creek,Sun Valley,ID
 16247,Sun Valley Resort - White Clouds,Sun Valley,ID
-16248,Headwaters Club @ Teton Springs Resort - Headwaters Club @ Teton Springs Resort,Victor,ID
+16248,Headwaters Club @ Teton Springs Resort,Victor,ID
 16249,The Links At Teton Peaks - The Links At Teton Peaks,Driggs,ID
 16250,Teton Reserve,Teton Valley,ID
 16251,Jug Mountain Ranch,Mccall,ID
@@ -7157,8 +7157,8 @@
 21013,Turkey Creek Golf Club,Hennessey,OK
 21014,Sapulpa Golf Course,Sapulpa,OK
 21018,Okmulgee Country Club,Okmulgee,OK
-21019,Lake Hefner G. C. - North Course,Okc,OK
-21020,Lake Hefner G. C. - South Course,Okc,OK
+21019,Lake Hefner G. C. - North Course,Oklahoma City,OK
+21020,Lake Hefner G. C. - South Course,Oklahoma City,OK
 21021,Broadmore G. C.,Moore,OK
 21022,Cobblestone Creek G. C.,Muskogee,OK
 21025,Hummingbird G. C.,Cache,OK
@@ -7216,7 +7216,7 @@
 21085,Arrowhead State Park G. C.,Canadian,OK
 21086,Dietrick Memorial G. & C. C.,Anadarko,OK
 21087,Sequoyah  G. C.,Hulbert,OK
-21088,Twin Hills G. & C. C.,Okc,OK
+21088,Twin Hills G. & C. C.,Oklahoma City,OK
 21089,Alva G. & C.C.,Alva,OK
 21091,Cimarron Trails Golf Course,Perkins,OK
 21092,Shadow  Creek Golf Course,Sallisaw,OK
@@ -7520,7 +7520,7 @@
 21646,Legend Oaks Golf Club - Legend Oaks Golf Club,Summerville,SC
 21648,Kiawah Island Golf Resort - Oak Point,Kiawah Island,SC
 21649,Long Bay Club - Long Bay Club,Longs,SC
-21650,Pawleys Plantation Golf & Country Club - Pawleys Plantation Golf & Country Club,Pawleys Island,SC
+21650,Pawleys Plantation Golf & Country Club,Pawleys Island,SC
 21652,Windermere Club,Columbia,SC
 21653,Fort Jackson Golf Club - Wildcat,Fort Jackson,SC
 21654,Wild Dunes - Harbor Course,Isle Of Palms,SC
@@ -8068,7 +8068,7 @@
 24262,Clear Creek Golf Club,Bristol,VA
 24263,Gordon Trent Golf Club,Stuart,VA
 24265,Bow Creek Golf Course - Bow Creek Golf Course,Virginia Beach,VA
-24266,Mariners Landing Golf & Country Club - Mariners Landing Golf & Country Club,Huddleston,VA
+24266,Mariners Landing Golf & Country Club ,Huddleston,VA
 24267,Penderbrook Golf Club,Fairfax,VA
 24269,Prince William Golf Club - Prince William Golf Club,Nokesville,VA
 24271,London Downs Golf Course - London Downs Golf Course,Forest,VA
@@ -8216,7 +8216,7 @@
 24852,Callaway Gardens - Lake View,Pine Mountain,GA
 24853,Stonebridge Golf Club,Rome,GA
 24854,Rocky Branch Golf Course,Lincolnton,GA
-24855,Georgia Vets Memorial Gc At Lake Blackshear - Georgia Vets Memorial Gc At Lake Blackshear,Cordele,GA
+24855,Georgia Vets Memorial Gc At Lake Blackshear,Cordele,GA
 24857,Valley Pines Golf Course,Cairo,GA
 24864,Oakview Golf & Country Club,Macon,GA
 24865,Old Union,Blairsville,GA
@@ -8225,7 +8225,7 @@
 24868,Frog Golf Club,Villa Rica,GA
 24870,Fairways Of Canton,Canton,GA
 24871,Crooked Oak Golf Club Of Colquitt,Colquitt,GA
-24873,Green Acres Golf And Recreation Club - Green Acres Golf And Recreation Club,Dexter,GA
+24873,Green Acres Golf And Recreation Club ,Dexter,GA
 24874,Quitman Country Club,Quitman,GA
 24881,Dawson Country Club,Dawson,GA
 24882,Achasta Golf Club,Dahlonega,GA
@@ -9418,7 +9418,7 @@
 26400,Oronoque Country Club,Stratford,CT
 26401,River Ridge Golf Course,Jewett City,CT
 26405,Brooklyn Country Club,Danielson,CT
-26406,Sunset Hill Golf Course,Brookfield   203 740 7800,CT
+26406,Sunset Hill Golf Course,Brookfield,CT
 26407,Brownson Country Club,Huntington,CT
 26408,Grassy Hill Country Club,Orange,CT
 26409,Country Club Of Farmington,Farmington,CT
@@ -9737,7 +9737,7 @@
 26802,Orange County National Gc - Crooked Cat,Winter Garden,FL
 26804,Tpc Prestancia - Stadium Course,Sarasota,FL
 26805,Westminster Golf Club,Lehigh Acres,FL
-26806,The Plantation Golf And Country Club - The Plantation Golf And Country Club,Fort Myers,FL
+26806,The Plantation Golf And Country Club ,Fort Myers,FL
 26807,Pine Tree Golf Club - Pine Tree Golf Club,Boynton Beach,FL
 26809,Venetian Bay Golf Club,New Smyrna Beach,FL
 26810,The Club At Pelican Bay - South Course,Daytona Beach,FL
@@ -10115,7 +10115,7 @@
 27329,Indian Springs Golf Club,Marianna,FL
 27330,Wedgewood Golf & Country Club,Lakeland,FL
 27331,The Golf Club At Fleming Island,Orange Park,FL
-27333,The Villages Orange Blossom Hills G & Cc - The Villages Orange Blossom Hills G & Cc,The Villages,FL
+27333,The Villages Orange Blossom Hills G & Cc,The Villages,FL
 27335,Savanna Club Golf Course,Port St Lucie,FL
 27336,The Meadows Country Club - Meadows Course,Sarasota,FL
 27337,The Villages Glenview Champions Cc - Fox Run/Stirrup Cup,The Villages,FL
@@ -10894,7 +10894,7 @@
 28574,Talking Stick Golf Club - Piipaash Course,Scottsdale,AZ
 28575,Talking Stick Golf Club - O?Çöodham Course,Scottsdale,AZ
 28576,Duke At Rancho El Dorado,Maricopa,AZ
-28577,Tres Rios Golf Course At Estrella Mountain - Tres Rios Golf Course At Estrella Mountain,Goodyear,AZ
+28577,Tres Rios Golf Course At Estrella Mountain,Goodyear,AZ
 28578,Hidden Cove Golf Course,Holbrook,AZ
 28582,Blackstone Country Club,Peoria,AZ
 28583,Estancia Club,Scottsdale,AZ
@@ -11454,7 +11454,7 @@
 29529,Gardiners Bay Country Club,Shelter Island Heights,NY
 29530,Merrick Park Golf Course,Merrick,NY
 29532,Tarry Brae Golf Course,South Fallsburg,NY
-29535,Kissena Park Golf Course,Fresh Meadows (Flushing),NY
+29535,Kissena Park Golf Course,Fresh Meadows,NY
 29536,Broadacres Golf Club,Orangeburg,NY
 29537,The Woods At Cherry Creek,Riverhead,NY
 29540,Holbrook Country Club,Holbrook,NY
@@ -12162,7 +12162,7 @@
 31018,Grand Traverse Resort & Spa - The Wolverine,Acme,MI
 31020,Chennault Park Golf Course,Monroe,LA
 31051,Thunderbird Hills Golf Club - North Course,Huron,OH
-31057,Plantation Preserve Golf & Country Club - Plantation Preserve Golf & Country Club,Plantation,FL
+31057,Plantation Preserve Golf & Country Club,Plantation,FL
 31065,Croasdaile Cc,Durham,NC
 31067,Avalon Golf Links - West/South,Burlington,WA
 31068,Avalon Golf Links - South/North,Burlington,WA
@@ -12679,7 +12679,7 @@
 34723,Indigo Creek Golf Club,Murrells Inlet,SC
 34724,Sea Mountain Golf Course,Pahala,HI
 34726,Wedgewood Gc,Wilson,NC
-34945,Bald Eagle Golf Club At Point Roberts - Bald Eagle Golf Club At Point Roberts,Point Roberts,WA
+34945,Bald Eagle Golf Club At Point Roberts,Point Roberts,WA
 35080,Trapp River Gc,Wauau,WI
 35532,Plum Lake Gc,Sayner,WI
 35534,Beechwood Cc - Beechwood Cc,Ahoskie,NC
@@ -12845,7 +12845,7 @@
 36229,The House-On-The-Rock Resort - The North Course,Spring Green,WI
 36231,The House-On-The-Rock Resort - Springs Front & North,Spring Green,WI
 36232,The House-On-The-Rock Resort - Springs Back & North,Spring Green,WI
-36241,The Amelia Island Club At Long Point - The Amelia Island Club At Long Point,Amelia Island,FL
+36241,The Amelia Island Club At Long Point ,Amelia Island,FL
 36245,Greencastle Greens Golf Club,Greencastle,PA
 36246,Cherry Island Gc,Elverta,CA
 36253,Cassville Golf Club - Cassville Golf Club,Cassville,MO
@@ -13167,7 +13167,7 @@
 38933,River Pointe Country Club - White/Blue,Hobart,IN
 38934,River Pointe Country Club - Red/Blue,Hobart,IN
 38935,Mt. Lebanon Golf Course,Pittsburgh,PA
-38939,General Electric Athletic Association (Geaa) - General Electric Athletic Association (Geaa),Pittsfield,MA
+38939,General Electric Athletic Association (Geaa),Pittsfield,MA
 38940,Green Harbor Golf Club - Green Harbor Golf Club,Marshfield,MA
 38941,Haverhill Country Club - Haverhill Country Club,Haverhill,MA
 38942,Hickory Hill Golf Course - Hickory Hill Golf Course,Methuen,MA
@@ -13992,7 +13992,6 @@
 44438,Steel Club - Tournament Course,Hellertown,PA
 44440,Drayton Golf Club,Drayton,ND
 44445,Gordon Pines Golf Course,Gordon,WI
-44447,First Warsaw Golf & Country Club - First Warsaw Golf & Country Club New Tee 2015,X,NJ
 44448,Bedford Elks Country Club,Bedford,PA
 44449,Pinehurst Cc - No. 2,Pinehurst,NC
 44450,Pinehurst Cc - No. 3,Pinehurst,NC
@@ -14490,7 +14489,7 @@
 46609,Golf Trails Of The Woodlands - Panther Trail,The Woodlands,TX
 46610,Levelland Country Club - Levelland Country Club,Levelland,TX
 46611,Eagle Bend Golf Course - .,Lawrence,KS
-46617,Tanglewood Shores Golf & Country Club - Tanglewood Shores Golf & Country Club,Bracey,VA
+46617,Tanglewood Shores Golf & Country Club,Bracey,VA
 46618,Kahili Golf Course,Wailuku,HI
 46626,Scottsdale National Golf Club - The Other Course,Scottsdale,AZ
 46627,Cole Acres Golf Course - Cole Acres Golf Course,Cuba City,WI
@@ -14515,7 +14514,6 @@
 46740,Four Winds Golf Club - Four Winds Golf Club,Rappahannock Academy,VA
 46746,Belmont Country Club - Belmont Country Club,Perrysburg,OH
 46749,Grantsburg Golf Course - Grantsburg Golf Course,Grantsburg,WI
-46752,First Warsaw Golf & Country Club - First Warsaw Golf & Country Club 2017,X,NJ
 46753,Macomb Country Club - Macomb Country Club,Macomb,IL
 46754,Princeton Valley Golf Course - Princeton Valley Golf Course,Eau Claire,WI
 46759,Walpole Country Club - Walpole Country Club,Walpole,MA
@@ -14635,9 +14633,9 @@
 47303,Martin Downs Golf Club - Banyan Creek,Palm City,FL
 47304,Egypt Valley Cc - Classic Course,Ada,MI
 47305,Egypt Valley Cc - Challenge Course,Ada,MI
-47308,The Shores Of North River Golf Club - The Shores Of North River Golf Club,Stuart,FL
+47308,The Shores Of North River Golf Club ,Stuart,FL
 47310,Golden Era Golf Course - Golden Era Golf Course,San Jacinto,CA
-47311,Mccauslin Brook Golf And Country Club - Mccauslin Brook Golf And Country Club,Lakewood,WI
+47311,Mccauslin Brook Golf And Country Club,Lakewood,WI
 47349,The Valley Club Of Montecito - Inside 9,Santa Barbara,CA
 47361,Country Club Of Jackson - Pines,Jackson,MI
 47362,Country Club Of Jackson - Woods,Jackson,MI
