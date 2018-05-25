@@ -16,20 +16,25 @@ app.use(session({
 app.use(express.static(__dirname + '/../client/dist'));
 
 app.get('/', (req, res) => {
-  console.log('Session: ', req.session.user)
-  res.sendFile(path.resolve(__dirname + '/../client/views/index.html'));
+  console.log('GET request for home by: ', req.session.user)
   if (!req.session.user) {
     res.redirect('/login');
+  } else {
+    res.sendFile(path.resolve(__dirname + '/../client/views/index.html'));
   }
 });
 
 app.get('/login', (req, res) => {
-  console.log('Logging In');
+  console.log('GET request for login');
   res.sendFile(path.resolve(__dirname + '/../client/views/login.html'));
 });
 
+app.post('/login', (req, res) => {
+  console.log('Info: ', req.body);
+});
+
 app.get('/register', (req, res) => {
-  console.log('Registering');
+  console.log('GET request for register');
   res.sendFile(path.resolve(__dirname + '/../client/views/register.html'));
 });
 

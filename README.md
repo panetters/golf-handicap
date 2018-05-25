@@ -1,5 +1,5 @@
 # Handycap #
- 
+
 ## Overview ##
   > Handycap is a simple app to save golf scores and keep track of a user's handicap.
 
