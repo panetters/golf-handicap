@@ -1,0 +1,51 @@
+body {
+  background-image: url("augusta.jpg");
+  background-size: 100%, 100%;
+  font-family: Roboto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+  color: coral;
+  position: absolute;
+  margin: auto;
+  top: 10%;
+  right: 0px;
+  left: 0px;
+  height: 10%;
+  width: 100%;
+}
+
+h3 {
+  font-size: 2em;
+  color: #fff;
+  position: absolute;
+  margin: auto;
+  top: 35%;
+  right: 0px;
+  left: 0px;
+  height: 10%;
+  width: 100%;
+}
+
+a {
+  position: absolute;
+  right: 0;
+  bottom: 10px;
+  left: 0;
+}
+
+.main {
+  background: rgba(255, 255, 255, .75);
+  position: absolute;
+  margin: auto;
+  padding: 15px;
+  top: 10%;
+  right: 0;
+  bottom: 0;
+  left: 0;  
+  width: 30%;
+  height: 20%;
+  border-radius: 10px;
+}

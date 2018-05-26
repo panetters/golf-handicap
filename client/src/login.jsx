@@ -42,20 +42,24 @@ class Login extends React.Component {
 
   render() {
     return (
-      <div>
-        <form>
-          <div>
-            <TextField id="username" label="Username" value={this.state.username} onChange={this.usernameChange} />
-          </div>
-          <div>
-            <TextField id="password" label="Password" value={this.state.password} onChange={this.passwordChange} />
-          </div>
-          <div>
-            <Button onClick={this.sendRequest} variant="raised" color="primary">Submit</Button>
-          </div>
-        </form>
-        <a href="/register">New to Handycap? Register first.</a>
-      </div>
+      <React.Fragment>
+        <h1>Welcome to Handycap</h1>
+        <h3>Please Login</h3>
+        <div className="main">
+          <form>
+            <div>
+              <TextField id="username" fullWidth label="Username" value={this.state.username} onChange={this.usernameChange} />
+            </div>
+            <div>
+              <TextField id="password" fullWidth label="Password" value={this.state.password} onChange={this.passwordChange} />
+            </div>
+            <div>
+              <Button onClick={this.sendRequest}>Submit</Button>
+            </div>
+          </form>
+          <a href="/register">New to Handycap? Register first.</a>
+        </div>
+      </React.Fragment>
     )
   }
 }

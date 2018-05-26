@@ -4,6 +4,22 @@ import axios from 'axios';
 
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
+import { withStyles } from '@material-ui/core/styles';
+
+const styles = theme => ({
+  container: {
+    display: 'flex',
+    flexWrap: 'wrap',
+  },
+  textField: {
+    marginLeft: theme.spacing.unit,
+    marginRight: theme.spacing.unit,
+    width: 200,
+  },
+  menu: {
+    width: 200,
+  },
+});
 
 class Register extends React.Component {
   constructor(props) {
@@ -49,20 +65,23 @@ class Register extends React.Component {
 
   render() {
     return (
-      <div>
-        <form>
-          <div>
-            <TextField id="username" label="Username" value={this.state.username} onChange={this.usernameChange} />
-          </div>
-          <div>
-            <TextField id="password" label="Password" value={this.state.password} onChange={this.passwordChange} />
-          </div>
-          <div>
-            <Button onClick={this.sendRequest} variant="raised" color="primary">Submit</Button>
-          </div>
-        </form>
-        <a href="/login">Have an account?</a>
-      </div>
+      <React.Fragment>
+        <h3>New User Registration</h3>
+        <div className="main">
+          <form>
+            <div>
+              <TextField id="username" fullWidth label="Username" value={this.state.username} onChange={this.usernameChange} />
+            </div>
+            <div>
+              <TextField id="password" fullWidth label="Password" value={this.state.password} onChange={this.passwordChange} />
+            </div>
+            <div>
+              <Button onClick={this.sendRequest}>Submit</Button>
+            </div>
+          </form>
+          <a href="/login">Have an account?</a>
+        </div>
+      </React.Fragment>
     )
   }
 }
