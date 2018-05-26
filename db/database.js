@@ -43,7 +43,7 @@ getScores = async (userInfo) => {
   const userValues = [userInfo];
   let userId = await dbClient.query(userText, userValues);
   
-  const scoresText = 'SELECT * FROM scores WHERE user_id = $1';
+  const scoresText = 'SELECT * FROM scores WHERE user_id = $1 ORDER BY date DESC LIMIT 20';
   const scoresValues = [userId.rows[0].id];
   let scores = await dbClient.query(scoresText, scoresValues);
 
