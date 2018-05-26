@@ -16,10 +16,10 @@ addUser = async (userInfo, cb) => {
   const values = [userInfo.username, userInfo.password];
 
   try {
-    let result = await dbClient.query(text, values)
+    await dbClient.query(text, values)
     return true;
   } catch(err) {
-    console.log('Insertion error');
+    console.log('DB insertion error: probable duplicate');
     return false;
   }
 

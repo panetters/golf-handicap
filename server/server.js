@@ -42,16 +42,12 @@ app.get('/register', (req, res) => {
 
 app.post('/register', async (req, res) => {
   console.log('POST request for register');
-  let dbResult;
-  try {
-    dbResult = await database.addUser(req.body);
-  } catch(err) {
-    console.log('DB ENTRY FAIL');
-  }
+
+  let dbResult = await database.addUser(req.body);
 
   if (dbResult) {
     req.session.user = req.body.username;
-    res.redirect('/');
+    res.send({redirect: '/'});
   } else {
     res.send('Error');
   }

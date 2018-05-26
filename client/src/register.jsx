@@ -21,7 +21,14 @@ class Register extends React.Component {
     axios.post('/register', {
       username: this.state.username,
       password: this.state.password
-    });
+    }).then((res) => {
+      if (res.data.redirect) {
+        document.location.href = res.data.redirect;
+      } else if (res.data = 'Error') {
+        alert('Username Taken');
+      }
+    })
+
     this.setState({
       username: '',
       password: ''
