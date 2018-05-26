@@ -37,6 +37,10 @@ app.get('/userscores', async (req, res) => {
   res.send(scores.rows);
 });
 
+app.post('/logout', (req, res) => {
+  req.session.user = '';
+});
+
 app.get('/login', (req, res) => {
   console.log('GET request for login');
   res.sendFile(path.resolve(__dirname + '/../client/views/login.html'));

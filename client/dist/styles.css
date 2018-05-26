@@ -52,6 +52,12 @@ h3 {
   height: 100%;
 }
 
+.add-score {
+  margin: auto;
+  left: 10px;
+  height: 100%;
+}
+
 .loading {
   position: absolute;
   margin: auto;
