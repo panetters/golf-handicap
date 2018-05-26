@@ -21,7 +21,14 @@ class Login extends React.Component {
     axios.post('/login', {
       username: this.state.username,
       password: this.state.password
+    }).then((res) => {
+      if (res.data.redirect) {
+        document.location.href = res.data.redirect;
+      } else if (res.data = 'Error') {
+        alert('Invalid Credentials');
+      }
     });
+
     this.setState({
       username: '',
       password: ''

@@ -26,13 +26,33 @@ app.get('/', (req, res) => {
   }
 });
 
+app.get('/user', async (req, res) => {
+  console.log('GET request for user');
+  res.send(req.session.user);
+});
+
+app.get('/userscores', async (req, res) => {
+  console.log('GET request for user scores');
+  let scores = await database.getScores(req.session.user);
+  res.send(scores.rows);
+});
+
 app.get('/login', (req, res) => {
   console.log('GET request for login');
   res.sendFile(path.resolve(__dirname + '/../client/views/login.html'));
 });
 
-app.post('/login', (req, res) => {
-  console.log('Info: ', req.body);
+app.post('/login', async (req, res) => {
+  console.log('POST request for login');
+
+  let dbResult = await database.verifyUser(req.body);
+
+  if (dbResult) {
+    req.session.user = req.body.username;
+    res.send({redirect: '/'});
+  } else {
+    res.send('Error');
+  }
 });
 
 app.get('/register', (req, res) => {
