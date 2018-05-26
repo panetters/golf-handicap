@@ -18,11 +18,14 @@ class Login extends React.Component {
   }
 
   sendRequest() {
-    console.log(this.state.username);
-    // axios.post('http://127.0.0.1:8080/login', {
-    //   username: this.state.username,
-    //   password: this.state.password
-    // });
+    axios.post('/login', {
+      username: this.state.username,
+      password: this.state.password
+    });
+    this.setState({
+      username: '',
+      password: ''
+    });
   }
 
   usernameChange(e) {
@@ -42,15 +45,16 @@ class Login extends React.Component {
       <div>
         <form>
           <div>
-            <TextField id="username" label="Username" value={this.state.username} onChange={this.usernameChange}/>
+            <TextField id="username" label="Username" value={this.state.username} onChange={this.usernameChange} />
           </div>
           <div>
-            <TextField id="password" label="Password">{this.state.password} onChange={this.passwordChange}</TextField>
+            <TextField id="password" label="Password" value={this.state.password} onChange={this.passwordChange} />
           </div>
           <div>
             <Button onClick={this.sendRequest} variant="raised" color="primary">Submit</Button>
           </div>
         </form>
+        <a href="/register">New to Handycap? Register first.</a>
       </div>
     )
   }

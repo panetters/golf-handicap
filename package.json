@@ -26,8 +26,7 @@
     "jquery": "^3.3.1",
     "pg": "^7.4.3",
     "react": "^16.4.0",
-    "react-dom": "^16.4.0",
-    "request": "^2.86.0"
+    "react-dom": "^16.4.0"
   },
   "devDependencies": {
     "@material-ui/icons": "^1.0.0",
