@@ -15,7 +15,8 @@
   },
   "scripts": {
     "server": "nodemon server/server.js",
-    "webpack": "webpack -d --watch"
+    "webpack": "webpack -d --watch",
+    "heroku-postbuild" : "webpack -p"
   },
   "dependencies": {
     "@material-ui/core": "^1.0.0",
