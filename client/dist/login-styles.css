@@ -1,6 +1,6 @@
 body {
   background-image: url("augusta.jpg");
-  background-size: 100%, 100%;
+  background-size: cover;
   font-family: Roboto;
   text-align: center;
 }

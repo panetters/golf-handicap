@@ -7,7 +7,7 @@ const ScoreListEntry = (props) => (
     <TableCell>{props.date.toDateString()}</TableCell>
     <TableCell>{props.course}</TableCell>
     <TableCell>{props.gross}</TableCell>
-    <TableCell>{props.net}</TableCell>
+    <TableCell>{props.diff}</TableCell>
   </TableRow>
 )
 

@@ -8,36 +8,25 @@ class AddScore extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      courseQuery: '',
-      cityQuery: ''
+      query: '',
     }
-    this.courseChange = this.courseChange.bind(this);
-    this.cityChange = this.cityChange.bind(this);
+    this.searchChange = this.searchChange.bind(this);
   }
 
-  courseChange(e) {
-    this.setState({
-      course: e.target.value
-    })
-  }
 
-  cityChange(e) {
+  searchChange(e) {
     this.setState({
-      course: e.target.value
+      query: e.target.value
     })
   }
 
   render() {
     return (
       <div className="course-search">
-        <h4>Search by course name or city:</h4>
-        <div>
-          <TextField fullWidth label="Course " value={this.state.courseQuery} onChange={this.courseChange} />
-          <Button>Course Search</Button>
-        </div>
-        <div>
-          <TextField fullWidth label="City" value={this.state.cityQuery} onChange={this.cityChange} />
-          <Button>City Search</Button>
+        <h4>Search for your course:</h4>
+        <div className="search-field">
+          <TextField fullWidth label="Course " value={this.state.query} onChange={this.searchChange} />
+          <Button>Search</Button>
         </div>
       </div>
     )

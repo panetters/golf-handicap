@@ -24,7 +24,8 @@ h3 {
 
 h4 {
   font-weight: normal;
-  margin-bottom: 1px;
+  margin-top: 1px;
+  margin-bottom: 5px;
 }
 
 .topbar {
@@ -46,10 +47,31 @@ h4 {
 }
 
 .scoreboard {
-  width: 50%;
+  position: absolute;
+  display: inline-block;
+  width: 40%;
   background: rgba(255, 255, 255, .5);
   padding: 10px;
   border-radius: 10px;
+  left: 5%;
+}
+
+.handicap {
+  position: absolute;
+  display: inline-block;
+  width: 20%;
+  background: rgba(255, 255, 255, .5);
+  padding: 10px;
+  border-radius: 10px;
+  right: 15%;
+}
+
+.handicap p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: darkgreen;
+  font-size: 3em;
+  text-align: center;
 }
 
 .logout {
@@ -77,4 +99,8 @@ h4 {
 
 .course-search {
   margin: auto;
+}
+
+.search-field {
+  text-align: center;
 }

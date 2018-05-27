@@ -15,6 +15,7 @@ class Login extends React.Component {
     this.sendRequest = this.sendRequest.bind(this);
     this.usernameChange = this.usernameChange.bind(this);
     this.passwordChange = this.passwordChange.bind(this);
+    this.keyCheck = this.keyCheck.bind(this);
   }
 
   sendRequest() {
@@ -47,6 +48,12 @@ class Login extends React.Component {
     })
   }
 
+  keyCheck(e) {
+    if (e.keyCode === 13) {
+      this.sendRequest();
+    }
+  }
+
   render() {
     return (
       <React.Fragment>
@@ -58,7 +65,7 @@ class Login extends React.Component {
               <TextField id="username" fullWidth label="Username" value={this.state.username} onChange={this.usernameChange} />
             </div>
             <div>
-              <TextField id="password" fullWidth label="Password" value={this.state.password} onChange={this.passwordChange} />
+              <TextField id="password" fullWidth label="Password" value={this.state.password} onKeyDown={this.keyCheck} onChange={this.passwordChange} />
             </div>
             <div>
               <Button onClick={this.sendRequest}>Submit</Button>
@@ -72,3 +79,4 @@ class Login extends React.Component {
 }
 
 ReactDOM.render(<Login />, document.getElementById('app'));
+document.getElementById('username').focus();

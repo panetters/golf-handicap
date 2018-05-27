@@ -14,13 +14,13 @@ const ScoreList = (props) => (
           <TableCell>Date</TableCell>
           <TableCell>Course</TableCell>
           <TableCell>Gross Score</TableCell>
-          <TableCell>Net Score</TableCell>
+          <TableCell>Differential</TableCell>
       </TableRow>
     </TableHead>
     <TableBody>
     {props.scores.map((curScore) =>
       <ScoreListEntry key={curScore.id}  date={new Date(curScore.date)} course={curScore.course}
-      gross={curScore.gross_score} net={curScore.net_score} />
+      gross={curScore.gross_score} diff={curScore.diff} />
     )}
     </TableBody>
   </Table>   
