@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const session = require('express-session');
 const path = require('path');
+const axios = require('axios');
 
 const database = require('../db/database.js');
 
@@ -31,10 +32,24 @@ app.get('/user', async (req, res) => {
   res.send(req.session.user);
 });
 
-app.get('/userscores', async (req, res) => {
+app.get('/userScores', async (req, res) => {
   console.log('GET request for user scores');
   let scores = await database.getScores(req.session.user);
   res.send(scores.rows);
+});
+
+app.post('/search', async (req, res) => {
+  console.log('POST request for search');
+  let courseResults = await database.getCourses(req.body);
+  res.send(courseResults);
+});
+
+app.get('/courseInfo/*', async (req, res) => {
+  let courseId = req.url.slice(req.url.lastIndexOf('/') + 1);
+  console.log('GET request for course: ', courseId);
+  let url = `http://jusme.org/getcourseinfo.php?type=details&CourseID=${courseId}&output=json`
+  let ratings = await axios.get(url);
+  res.send(ratings.data.M);
 });
 
 app.post('/logout', (req, res) => {

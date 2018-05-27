@@ -50,6 +50,16 @@ getScores = async (userInfo) => {
   return scores;
 }
 
+getCourses = async (search) => {
+  const text = `SELECT courses.id, courses.name, cities.city, cities.state FROM courses INNER JOIN cities
+    ON courses.city_id = cities.id WHERE courses.name ~* $1 OR cities.city ~* $1 LIMIT 8`;
+  const values = ['.*' + search.query + '.*'];
+
+  let courses = await dbClient.query(text, values);
+  return courses;
+}
+
 module.exports.addUser = addUser;
 module.exports.verifyUser = verifyUser;
 module.exports.getScores = getScores;
+module.exports.getCourses = getCourses;

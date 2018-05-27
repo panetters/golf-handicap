@@ -29,7 +29,6 @@ class App extends React.Component {
   componentDidMount() {
     this.getUser();
     this.getScores();
-
   }
 
   getUser() {
@@ -42,7 +41,7 @@ class App extends React.Component {
   }
 
   getScores() {
-    axios.get('/userscores')
+    axios.get('/userScores')
       .then((res) => {
         this.setState({
           userScores: res.data,
