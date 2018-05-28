@@ -8,7 +8,6 @@ import TableHead from '@material-ui/core/TableHead';
 import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
-import RadioGroup from '@material-ui/core/RadioGroup';
 import Radio from '@material-ui/core/Radio';
 
 class AddScore extends React.Component {
@@ -146,21 +145,16 @@ class AddScore extends React.Component {
               </TableRow>
             </TableHead>
             <TableBody>
-            {this.state.courseTees.map((tee, ind) => {
-              const isSelected = this.isSelected(tee.tee);
-              return (
-                <TableRow key={ind + '.row'} onClick={() => this.selectTee(tee.tee, tee.rating, tee.slope)}>
-                  <TableCell>
-                      <RadioGroup>
-                        <Radio checked={isSelected} />
-                      </RadioGroup>
-                  </TableCell>
-                  <TableCell key={ind + '.tee'}>{tee.tee}</TableCell>
-                  <TableCell key={ind + '.rating'}>{tee.rating}</TableCell>
-                  <TableCell key={ind + '.slope'}>{tee.slope}</TableCell>
-                </TableRow>
-              );
-            })}
+            {this.state.courseTees.map((tee, ind) =>
+              <TableRow key={ind + '.row'} onClick={() => this.selectTee(tee.tee, tee.rating, tee.slope)}>
+                <TableCell>
+                    <Radio checked={tee.tee === this.state.selected} />
+                </TableCell>
+                <TableCell key={ind + '.tee'}>{tee.tee}</TableCell>
+                <TableCell key={ind + '.rating'}>{tee.rating}</TableCell>
+                <TableCell key={ind + '.slope'}>{tee.slope}</TableCell>
+              </TableRow>
+            )}
             </TableBody>
           </Table>
         </div>
