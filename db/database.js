@@ -41,6 +41,7 @@ verifyUser = async (userInfo) => {
 getScores = async (userInfo) => {
   const userText = 'SELECT id FROM users WHERE username = $1';
   const userValues = [userInfo];
+
   let userId = await dbClient.query(userText, userValues);
   
   const scoresText = 'SELECT * FROM scores WHERE user_id = $1 ORDER BY date DESC LIMIT 20';
@@ -59,7 +60,22 @@ getCourses = async (search) => {
   return courses;
 }
 
+addScore = async (scoreInfo) => {
+  const userText = 'SELECT id FROM users WHERE username = $1';
+  const userValues = [scoreInfo.user];
+
+  let userId = await dbClient.query(userText, userValues);
+  let today =  new Date(Date.now()).toDateString();
+
+  const text = `INSERT INTO scores(user_id, course, gross_score, diff, date) VALUES($1, $2, $3, $4, $5)`;
+  const values = [userId.rows[0].id, scoreInfo.course, parseInt(scoreInfo.score), scoreInfo.diff, today];
+  
+  await dbClient.query(text, values);
+  return true;
+}
+
 module.exports.addUser = addUser;
 module.exports.verifyUser = verifyUser;
 module.exports.getScores = getScores;
 module.exports.getCourses = getCourses;
+module.exports.addScore = addScore;

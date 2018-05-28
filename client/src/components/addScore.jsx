@@ -17,8 +17,10 @@ class AddScore extends React.Component {
       query: '',
       results: [],
       courseTees: [],
+      course: '',
       rating: '',
       slope: '',
+      score: '',
       fetching: false,
       selected:''
     }
@@ -28,6 +30,8 @@ class AddScore extends React.Component {
     this.selectCourse = this.selectCourse.bind(this);
     this.selectTee = this.selectTee.bind(this);
     this.isSelected = this.isSelected.bind(this);
+    this.scoreChange = this.scoreChange.bind(this);
+    this.addScore = this.addScore.bind(this);
   }
 
   componentDidMount() {
@@ -56,6 +60,12 @@ class AddScore extends React.Component {
     })
   }
 
+  scoreChange(e) {
+    this.setState({
+      score: e.target.value
+    })
+  }
+
   keyCheck(e) {
     if (e.keyCode === 13) {
       this.sendRequest();
@@ -65,6 +75,10 @@ class AddScore extends React.Component {
   selectCourse(course) {
     document.getElementById('searching').style.display = "none"
     document.getElementById('fetching').style.display = "initial"
+
+    this.setState({
+      course: course
+    });
 
     axios.get('/courseInfo/' + course, {
       courseId: course
@@ -93,6 +107,10 @@ class AddScore extends React.Component {
       rating: rat,
       slope: slo
     });
+  }
+
+  addScore() {
+    this.props.newScore(this.state.course, this.state.score, this.state.rating, this.state.slope);
   }
 
   isSelected(tee) {
@@ -157,6 +175,11 @@ class AddScore extends React.Component {
             )}
             </TableBody>
           </Table>
+          <div className="score-entry">
+            <h4>Score:</h4>
+            <TextField id="search" label="Score" value={this.state.score} onChange={this.scoreChange} />
+            <Button onClick={this.addScore}>Submit</Button>
+          </div>
         </div>
 
       </div>

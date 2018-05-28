@@ -52,6 +52,12 @@ app.get('/courseInfo/*', async (req, res) => {
   res.send(ratings.data.M);
 });
 
+app.post('/addScore', async (req, res) => {
+  console.log('POST request for adding score');
+  let wait = database.addScore(req.body);
+  res.send('Success');
+});
+
 app.post('/logout', (req, res) => {
   req.session.user = '';
 });

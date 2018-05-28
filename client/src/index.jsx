@@ -24,6 +24,7 @@ class App extends React.Component {
     this.getScores = this.getScores.bind(this);
     this.calcHandicap = this.calcHandicap.bind(this);
     this.togglePopup = this.togglePopup.bind(this);
+    this.addScore = this.addScore.bind(this);
   }
 
   componentDidMount() {
@@ -90,6 +91,18 @@ class App extends React.Component {
     });
   }
 
+  addScore(course, score, rating, slope) {
+    let diff = (score - rating) * 113 / slope;
+    diff = Math.round(diff * 10) / 10;
+
+    axios.post('/addScore', {
+      user: this.state.user,
+      course: course,
+      score: score,
+      diff: diff
+    });
+  }
+
   render() {
     return (
       <React.Fragment>
@@ -114,7 +127,7 @@ class App extends React.Component {
               <p>{this.state.handicap}</p>
             </div>
             <Popup open={this.state.popup} closeOnDocumentClick onClose={this.togglePopup}>
-              <AddScore />
+              <AddScore newScore={this.addScore} />
             </Popup>
           </div>
         }
