@@ -52,7 +52,7 @@ getScores = async (userInfo) => {
 
 getCourses = async (search) => {
   const text = `SELECT courses.id, courses.name, cities.city, cities.state FROM courses INNER JOIN cities
-    ON courses.city_id = cities.id WHERE courses.name ~* $1 OR cities.city ~* $1 LIMIT 8`;
+    ON courses.city_id = cities.id WHERE courses.name ~* $1 OR cities.city ~* $1 LIMIT 10`;
   const values = ['.*' + search.query + '.*'];
 
   let courses = await dbClient.query(text, values);

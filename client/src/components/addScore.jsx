@@ -8,6 +8,8 @@ import TableHead from '@material-ui/core/TableHead';
 import TableBody from '@material-ui/core/TableBody';
 import TableRow from '@material-ui/core/TableRow';
 import TableCell from '@material-ui/core/TableCell';
+import RadioGroup from '@material-ui/core/RadioGroup';
+import Radio from '@material-ui/core/Radio';
 
 class AddScore extends React.Component {
   constructor(props) {
@@ -16,16 +18,22 @@ class AddScore extends React.Component {
       query: '',
       results: [],
       courseTees: [],
-      fetching: false
+      rating: '',
+      slope: '',
+      fetching: false,
+      selected:''
     }
     this.sendRequest = this.sendRequest.bind(this);
     this.searchChange = this.searchChange.bind(this);
     this.keyCheck = this.keyCheck.bind(this);
     this.selectCourse = this.selectCourse.bind(this);
+    this.selectTee = this.selectTee.bind(this);
+    this.isSelected = this.isSelected.bind(this);
   }
 
   componentDidMount() {
-    document.getElementById('fetching').style.visibility = "hidden"
+    document.getElementById('fetching').style.display = "none"
+    document.getElementById('scoreEntry').style.display = "none"
     document.getElementById('search').focus();
   }
 
@@ -56,8 +64,8 @@ class AddScore extends React.Component {
   }
 
   selectCourse(course) {
-    document.getElementById('searching').style.visibility = "hidden"
-    document.getElementById('fetching').style.visibility = "visible"
+    document.getElementById('searching').style.display = "none"
+    document.getElementById('fetching').style.display = "initial"
 
     axios.get('/courseInfo/' + course, {
       courseId: course
@@ -70,10 +78,26 @@ class AddScore extends React.Component {
           slope: res.data[tees].Full.slope
         })
       }
+
       this.setState({
         courseTees: courseTees
       });
+
+      document.getElementById('fetching').style.display = "none"
+      document.getElementById('scoreEntry').style.display = "initial"
     });
+  }
+
+  selectTee(tee, rat, slo) {
+    this.setState({
+      selected: tee,
+      rating: rat,
+      slope: slo
+    });
+  }
+
+  isSelected(tee) {
+    return this.state.selected === tee;
   }
 
   render() {
@@ -96,7 +120,7 @@ class AddScore extends React.Component {
           </TableHead>
           <TableBody>
           {this.state.results.map((course) =>
-            <TableRow key={course.id + '.row'} onClick={() => this.selectCourse(course.id)}>
+            <TableRow  hover={true} key={course.id + '.row'} onClick={() => this.selectCourse(course.id)}>
               <TableCell key={course.id + '.name'}>{course.name}</TableCell>
               <TableCell key={course.id + '.city'}>{course.city}</TableCell>
               <TableCell key={course.id + '.state'}>{course.state}</TableCell>
@@ -107,7 +131,38 @@ class AddScore extends React.Component {
         </div>
 
         <div id="fetching">
-          Test
+          <h5>Loading course tees...</h5>
+        </div>
+
+        <div id="scoreEntry">
+          <h4>Select your tee:</h4>
+          <Table>
+            <TableHead>
+              <TableRow>
+                <TableCell></TableCell>
+                <TableCell>Tee</TableCell>
+                <TableCell>Rating</TableCell>
+                <TableCell>Slope</TableCell>
+              </TableRow>
+            </TableHead>
+            <TableBody>
+            {this.state.courseTees.map((tee, ind) => {
+              const isSelected = this.isSelected(tee.tee);
+              return (
+                <TableRow key={ind + '.row'} onClick={() => this.selectTee(tee.tee, tee.rating, tee.slope)}>
+                  <TableCell>
+                      <RadioGroup>
+                        <Radio checked={isSelected} />
+                      </RadioGroup>
+                  </TableCell>
+                  <TableCell key={ind + '.tee'}>{tee.tee}</TableCell>
+                  <TableCell key={ind + '.rating'}>{tee.rating}</TableCell>
+                  <TableCell key={ind + '.slope'}>{tee.slope}</TableCell>
+                </TableRow>
+              );
+            })}
+            </TableBody>
+          </Table>
         </div>
 
       </div>

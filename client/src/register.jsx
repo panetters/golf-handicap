@@ -18,6 +18,10 @@ class Register extends React.Component {
     this.keyCheck = this.keyCheck.bind(this);
   }
 
+  componentDidMount() {
+    document.getElementById('username').focus();
+  }
+
   sendRequest() {
     axios.post('/register', {
       username: this.state.username,
@@ -27,6 +31,7 @@ class Register extends React.Component {
         document.location.href = res.data.redirect;
       } else if (res.data = 'Error') {
         alert('Username Taken');
+        document.getElementById('username').focus();
       }
     })
 
@@ -78,4 +83,3 @@ class Register extends React.Component {
 }
 
 ReactDOM.render(<Register />, document.getElementById('app'));
-document.getElementById('username').focus();

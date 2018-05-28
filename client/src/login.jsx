@@ -18,6 +18,10 @@ class Login extends React.Component {
     this.keyCheck = this.keyCheck.bind(this);
   }
 
+  componentDidMount() {
+    document.getElementById('username').focus();
+  }
+
   sendRequest() {
     axios.post('/login', {
       username: this.state.username,
@@ -27,6 +31,7 @@ class Login extends React.Component {
         document.location.href = res.data.redirect;
       } else if (res.data = 'Error') {
         alert('Invalid Credentials');
+        document.getElementById('username').focus();
       }
     });
 
@@ -79,4 +84,3 @@ class Login extends React.Component {
 }
 
 ReactDOM.render(<Login />, document.getElementById('app'));
-document.getElementById('username').focus();

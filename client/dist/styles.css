@@ -28,6 +28,12 @@ h4 {
   margin-bottom: 5px;
 }
 
+h5 {
+  font-weight: normal;
+  font-size: 2em;
+  color: coral;
+}
+
 .topbar {
   height: 35px;
   line-height: 35px;
@@ -102,5 +108,9 @@ h4 {
 }
 
 .search-field {
+  text-align: center;
+}
+
+#fetching {
   text-align: center;
 }
