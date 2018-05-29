@@ -44,10 +44,12 @@ getScores = async (userInfo) => {
 
   let userId = await dbClient.query(userText, userValues);
   
-  const scoresText = 'SELECT * FROM scores WHERE user_id = $1 ORDER BY date DESC LIMIT 20';
+  const scoresText = `SELECT scores.id, scores.date, courses.name, scores.gross_score, scores.diff 
+    FROM scores INNER JOIN courses ON scores.course_id = courses.id 
+    WHERE scores.user_id = $1 ORDER BY scores.date DESC LIMIT 20`;
   const scoresValues = [userId.rows[0].id];
   let scores = await dbClient.query(scoresText, scoresValues);
-
+  
   return scores;
 }
 
@@ -67,7 +69,7 @@ addScore = async (scoreInfo) => {
   let userId = await dbClient.query(userText, userValues);
   let today =  new Date(Date.now()).toDateString();
 
-  const text = `INSERT INTO scores(user_id, course, gross_score, diff, date) VALUES($1, $2, $3, $4, $5)`;
+  const text = `INSERT INTO scores(user_id, course_id, gross_score, diff, date) VALUES($1, $2, $3, $4, $5)`;
   const values = [userId.rows[0].id, scoreInfo.course, parseInt(scoreInfo.score), scoreInfo.diff, today];
   
   await dbClient.query(text, values);

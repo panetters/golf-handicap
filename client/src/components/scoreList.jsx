@@ -19,7 +19,7 @@ const ScoreList = (props) => (
     </TableHead>
     <TableBody>
     {props.scores.map((curScore) =>
-      <ScoreListEntry key={curScore.id}  date={new Date(curScore.date)} course={curScore.course}
+      <ScoreListEntry key={curScore.id}  date={new Date(curScore.date)} course={curScore.name}
       gross={curScore.gross_score} diff={curScore.diff} />
     )}
     </TableBody>
