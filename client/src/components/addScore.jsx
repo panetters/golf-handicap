@@ -40,7 +40,7 @@ class AddScore extends React.Component {
     document.getElementById('search').focus();
   }
 
-  sendRequest() {
+  sendRequest(clear) {
     axios.post('/search', {
       query: this.state.query
     }).then((res) => {
@@ -49,9 +49,11 @@ class AddScore extends React.Component {
       });
     });
 
-    this.setState({
-      query: ''
-    });
+    if (clear) {
+      this.setState({
+        query: ''
+      });
+    }
   }
 
   searchChange(e) {
@@ -68,6 +70,8 @@ class AddScore extends React.Component {
 
   keyCheck(e) {
     if (e.keyCode === 13) {
+      this.sendRequest(true);
+    } else {
       this.sendRequest();
     }
   }
@@ -124,8 +128,7 @@ class AddScore extends React.Component {
         <div id="searching">
           <h4>Search for your course:</h4>
           <div className="search-field">
-            <TextField id="search" fullWidth label="Course" value={this.state.query} onKeyDown={this.keyCheck} onChange={this.searchChange} />
-            <Button onClick={this.sendRequest}>Search</Button>
+            <TextField id="search" fullWidth label="Course" value={this.state.query} onKeyUp={this.keyCheck} onChange={this.searchChange} />
           </div>
           <Table>
             <TableHead>
