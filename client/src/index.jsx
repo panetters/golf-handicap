@@ -57,7 +57,9 @@ class App extends React.Component {
     let hc;
     let netArr = this.state.userScores.map((score) => {
       return parseFloat(score.diff);
-    }).sort();
+    }).sort((a, b) => {
+      return a - b;
+    });
 
     if (netArr.length < 5) {
       hc = 'Need 5 Rounds to Calculate'
