@@ -68,12 +68,12 @@ class App extends React.Component {
     } else if (netArr.length <= 19) {
       let average = netArr.slice(0, 4).reduce((acc, cum) => {
         return acc + cum;
-      });
+      })/5;
       hc = Math.round(average * .96 * 10) / 10;
     } else {
       let average = netArr.slice(0, 9).reduce((acc, cum) => {
         return acc + cum;
-      });
+      })/10;
       hc = Math.round(average * .96 * 10) / 10;
     }
 
