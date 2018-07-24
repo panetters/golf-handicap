@@ -4,6 +4,7 @@ const session = require('express-session');
 const path = require('path');
 const axios = require('axios');
 
+require('dotenv').config();
 const database = require('../db/database.js');
 
 let app = express();
