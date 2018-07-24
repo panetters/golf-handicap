@@ -62,7 +62,7 @@ class Register extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <h3 class="header header-register">New User Registration</h3>
+        <h3 className="header header-register">New User Registration</h3>
         <div className="main main-register">
           <form>
             <div>

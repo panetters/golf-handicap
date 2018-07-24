@@ -6,29 +6,21 @@ body {
 }
 
 .title-login {
-  font-family: Oswald;
-  font-size: 5em;
-  color: coral;
-  position: absolute;
-  margin: auto;
-  top: 10%;
-  right: 0px;
-  left: 0px;
-  height: 10%;
+  display: inline-block;
   width: 100%;
+  font-family: Oswald;
+  font-size: calc(1rem + 6vw);
+  color: coral;
+  margin-top: 10vh;
   animation: fadein 5s;
 }
 
 .header {
-  font-size: 2em;
-  color: #fff;
-  position: absolute;
-  margin: auto;
-  top: 35%;
-  right: 0px;
-  left: 0px;
-  height: 10%;
+  display: inline-block;
   width: 100%;
+  font-size: calc(1rem + 2vw);
+  color: #fff;
+  margin: auto;
 }
 
 .header-login {
@@ -39,28 +31,22 @@ body {
 }
 
 .header-register {
+  margin-top: 20vh;
   animation: fadein 1s;
 }
 
 a {
-  position: absolute;
-  right: 0;
-  bottom: 10px;
-  left: 0;
+  display: inline-block;
 }
 
 .main {
+  display: inline-block;
   background: rgba(255, 255, 255, .75);
-  position: absolute;
-  margin: auto;
   padding: 15px;
-  top: 10%;
-  right: 0;
-  bottom: 0;
-  left: 0;  
-  width: 30%;
+  width: 80%;
   height: 20%;
   border-radius: 10px;
+  margin-top: 5vh;
 }
 
 .main-login {
@@ -77,4 +63,10 @@ a {
 @keyframes fadein{
   0% { opacity:0; }
   100% { opacity:1; }
+}
+
+@media screen and (min-width: 800px) {
+  .main {
+    width: 30%;
+  }
 }
