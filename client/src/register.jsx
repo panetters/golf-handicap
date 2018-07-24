@@ -23,7 +23,7 @@ class Register extends React.Component {
   }
 
   sendRequest() {
-    axios.post('/register', {
+    axios.post('/handycap/register', {
       username: this.state.username,
       password: this.state.password
     }).then((res) => {

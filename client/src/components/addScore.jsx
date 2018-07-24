@@ -41,7 +41,7 @@ class AddScore extends React.Component {
   }
 
   sendRequest(clear) {
-    axios.post('/search', {
+    axios.post('/handycap/search', {
       query: this.state.query
     }).then((res) => {
       this.setState({
@@ -84,7 +84,7 @@ class AddScore extends React.Component {
       course: course
     });
 
-    axios.get('/courseInfo/' + course, {
+    axios.get('/handycap/courseInfo/' + course, {
       courseId: course
     }).then((res) => {
       let courseTees = [];

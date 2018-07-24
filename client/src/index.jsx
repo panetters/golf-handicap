@@ -33,7 +33,7 @@ class App extends React.Component {
   }
 
   getUser() {
-    axios.get('/user')
+    axios.get('/handycap/user')
       .then((user) => {
         this.setState({
           user: user.data
@@ -42,7 +42,7 @@ class App extends React.Component {
   }
 
   getScores() {
-    axios.get('/userScores')
+    axios.get('/handycap/userScores')
       .then((res) => {
         this.setState({
           userScores: res.data,
@@ -83,7 +83,7 @@ class App extends React.Component {
   }
 
   logout() {
-    axios.post('/logout')
+    axios.post('/handycap/logout')
     document.location.href = '/login';
   }
 
@@ -100,7 +100,7 @@ class App extends React.Component {
 
     this.togglePopup();
 
-    axios.post('/addScore', {
+    axios.post('/handycap/addScore', {
       user: this.state.user,
       course: course,
       score: score,
