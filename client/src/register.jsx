@@ -62,8 +62,8 @@ class Register extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <h3>New User Registration</h3>
-        <div className="main">
+        <h3 class="header header-register">New User Registration</h3>
+        <div className="main main-register">
           <form>
             <div>
               <TextField id="username" fullWidth label="Username" value={this.state.username} onChange={this.usernameChange} />

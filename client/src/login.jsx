@@ -62,9 +62,9 @@ class Login extends React.Component {
   render() {
     return (
       <React.Fragment>
-        <h1>Welcome to Handycap</h1>
-        <h3>Please Login</h3>
-        <div className="main">
+        <h1 className="title-login">Welcome to Handycap</h1>
+        <h3 className="header header-login">Please Login</h3>
+        <div className="main main-login">
           <form>
             <div>
               <TextField id="username" fullWidth label="Username" value={this.state.username} onChange={this.usernameChange} />
