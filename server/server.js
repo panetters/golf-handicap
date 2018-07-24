@@ -17,7 +17,7 @@ app.use(session({
   saveUninitialized: true,
 }));
 
-app.use(express.static(__dirname + '/../client/dist'));
+app.use(express.static('/handycap/', __dirname + '/../client/dist'));
 
 app.get('/handycap/', (req, res) => {
   console.log('GET request for home by: ', req.session.user)
