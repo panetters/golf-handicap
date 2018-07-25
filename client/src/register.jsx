@@ -75,7 +75,7 @@ class Register extends React.Component {
               <Button onClick={this.sendRequest}>Submit</Button>
             </div>
           </form>
-          <a href="/login">Have an account?</a>
+          <a href="/handycap/login">Have an account?</a>
         </div>
       </React.Fragment>
     )

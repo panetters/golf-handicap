@@ -76,7 +76,7 @@ class Login extends React.Component {
               <Button onClick={this.sendRequest}>Submit</Button>
             </div>
           </form>
-          <a href="/register">New to Handycap? Register first.</a>
+          <a href="/handycap/register">New to Handycap? Register first.</a>
         </div>
       </React.Fragment>
     )
